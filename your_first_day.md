@@ -15,10 +15,10 @@ First, ask Dr. Zhang to add you to the lab [Trello](https://trello.com/en-US) sp
 Second, you should first read through this document and configure your computer with necessary software. Understanding the contents in this document will help you establish a good habit on conducting reproducible computational experiments.There are a few things you need to do to get started on data analysis: 
 
 ```
-We do 1) large-scale processing at Boulder Summit (will be Alpine for future), 
-2) then grab the processed data to our local box (e.g. Jupyter notbook), and 
-3) shared code and key results at Github team and 
-4) archive key results data and figure at Boulder Summit storage space.
+We do 1) large-scale processing at Boulder Summit (will be Alpine for future) 
+2) then grab the processed data to our local box (e.g. Jupyter notbook) 
+3) share code and key results at specific Github repo 
+4) archive key results data and figure at Boulder Summit storage space
 ```
 
 
@@ -134,14 +134,6 @@ Often we want to switch to a different branch that's available on the server.
 
 3. Great git Manual Page:
 <http://www.kernel.org/pub/software/scm/git/docs/>
-
-###### GIT Flow in Zhang Lab ##
-
-You might have read about the git repository structure of a game design company. However the structure can be different according to the types of work we do and the Zhang Lab has its own GIT flow. 
-
-![Alt text](./figures/GIT_flow.jpg)
-
-According to the picture, we can see that we open a new repository for each project and create a master repository for it. Under that we have the develop branch where most of the work are kept. Under the develop branch we may branch out for various features/experiments of the project, and even smaller ones for individual work. After a good amount and quality of code is written, we may push it back to the develop branch. And when the project is developed enough to write a paper, we would push it to release with all the paper writing components. 
 
 
 ## Archive key results data and figure
