@@ -44,7 +44,7 @@ Writing good bash scripts can be challenging. Use this [guide](http://www.tldp.o
 
 
 ## 3. Sharing code and results through Github
-We manage our code repository for each project at https://github.com/fanzhanglab. We strongly encourage every lab member to share code and key results at Github for the purpose of tracking changes, sharing experience, and enhancing collaborations. Refer to [Project Folder](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/reproducible_research.md#structure-of-a-project-folder) about how to specifically built a Github repo structure.
+We manage our code repository for each project at https://github.com/fanzhanglab. We strongly encourage every lab member to share code and key results at Github for the purpose of tracking changes, sharing experience, and enhancing collaborations. Refer to [Project Folder](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/reproducible_research.md#structure-of-a-project-folder) about how to specifically build a Github repo structure.
 
 Please learn version Control by Git:
 
