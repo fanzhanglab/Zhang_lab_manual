@@ -35,7 +35,7 @@ Once you've set up your working environment, then you'll need to start learning 
 
 
 ## 2. Set Up Your Jupyterlab Working Environment locally
-We perform downstream analysis using Jupyterlab. So far the Summit doesn't allow XSEDE users to access Jupyter notebook given the differences between Boulder and Anschutz in authentication. Please install R version 4.1.2 and Python 3.9.10 locall, and jupyterlab. For the details of how to install Jupyterlab, please check our lab Trello board.
+We perform downstream analysis using Jupyterlab. So far the Summit doesn't allow XSEDE users to access Jupyter notebook given the differences between Boulder and Anschutz in authentication. Please install R version 4.1.2, Python 3.9.10, and jupyterlab. For the details of how to install Jupyterlab, please check our lab Trello board. Note that we have unlimited space from Microsoft OneDrive. You can sync your OneDrive folder to your local laptop, then save the processed data (e.g., single-cell RNA-seq gene x cell matrix) into folders from OneDrive, which saves your local laptop storage space. When you code under Jupyterlab environment, you can just access these data from OneDrive.
 
 [Here](./reference/linux_tutorial.pdf) is a recommended unix tutorial and tips. You can skip the first part and start reading from Page 6.
 
