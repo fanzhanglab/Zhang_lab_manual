@@ -5,7 +5,7 @@ Author: Fan Zhang
 
 Date: June 22, 2021
 
-Last update: June 22, 2021
+Last update: Feb 16, 2022
 
 Copyright:
 
@@ -13,42 +13,37 @@ Congratulations, and welcome! This guide is written by people who've been where 
 
 ***You should first read through this document and configure your computer with necessary software. Understanding the contents in this document will help you establish a good habit on conducting reproducible computational experiments.***
 
-There are a few things you need to do to get started.
+There are a few things you need to do to get started. 
+We do 1) large-scale processing at Boulder Summit (will be Alpine for future), 
+2) then grab the processed data to our local box (e.g. Jupyter notbook), and 
+3) shared code and key results at Github team and 
+4) archive key results data and figure at Boulder Summit storage space.
 
-## Request your account on our server `XXX`.##
-1. XXX is our primary linux server for computation. It's a 64 core machine with 256Gb RAM. In addition to onboard storage, we have a 9Tb high speed drive +1Tb solid-state drive attached to XXX via NFS for storing our data. Send the following email to XX and cc Prof. Zhang for an account.	Your email should read as follows. It is very important that Sia adds your account under the zhanglab unix group.
+## Request your account on our server `Summit`.##
+1. Boulder Summit is our primary linux server for computation including read mapping, large-scale gennomics data computation, running jobs. Boulder Summit supports HPC computing. First, you need to obtain RMASS Access to Summit by getting an XSEDE account (for Anschutz campus users) following the steps https://curc.readthedocs.io/en/latest/index.html
 
+2. Read the detailed mannual https://curc.readthedocs.io/en/latest/index.html (e.g. "Running Jobs"), and installing Python and R with Anaconda following the steps from https://curc.readthedocs.io/en/latest/software/python.html.
 
+3. Learn the structure of the Filesystems from https://curc.readthedocs.io/en/latest/compute/filesystems.html
 
-	> Dear Mr. XXX
-	>
-	> I'm writing to request an account on Prof. Zhang's compute server redwood.wpi.edu. Prof. Zhang would like my default group to be zhanglab. We would like access to research.wpi.edu for a Mac and Windows machine as well.
-	>
-	> If there is anything I can do to help, please let me know.
-	>
-	> Thank you,
-	> Your name
-
-
-2. Once you have your account name and password, change your password using `yppasswd`. 
-
-3. Use `ypchsh` to change your default shell to `/bin/bash`.
-
-A terminal application allows you to connect to our server, check the directories and files on it, and perform computations. Here are examples of commonly used terminal applications. After you installed them, and if you are not familiar with Linux commands, you can read the section about [Linux commands](#lc).
+A terminal application allows you to connect to our server, check the directories and files on it, and perform computations. 
 
 Once you've set up your working environment, then you'll need to start learning about the software, systems and culture for the lab. 
 
 
-
-
-## Set Up Your Linux Working Environment ##
-1. Set up jupyter working environment
+## Set Up Your Jupyterlab Working Environment locally##
+We perform downstream analysis using Jupyterlab. So far the Summit doesn't allow XSEDE users to access Jupyter notebook given the differences between Boulder and Anschutz in authentication. Please install R version 4.1.2 and Python 3.9.10 locall, and jupyterlab. For the details of how to install Jupyterlab, please check our lab Trello board.
 
 [Here](./reference/linux_tutorial.pdf) is a recommended unix tutorial and tips. You can skip the first part and start reading from Page 6.
 
 Writing good bash scripts can be challenging. Use this [guide](http://www.tldp.org/LDP/abs/html/) to get the basics. And use this [guide](http://www.davidpashley.com/articles/writing-robust-shell-scripts.html) to make your code more robust.
 
-# <a name = "gg"></a> Version Control: GIT #
+
+
+## Sharing code and results through Github##
+We manage our code repository for each project at https://github.com/fanzhanglab. We strongly encourage every lab member to share code and key results at Github for the purpose of tracking changes, sharing experience, and enhancing collaborations.
+
+Please learn version Control by Git:
 
 We use a version control system git in the lab extensively. The system has a tree structure that bears all the work in the shared drive. Git allows many people to work on the same project at the same time, and avoids the confusion caused by keeping track of the updated versions of the same file. The following paragraph describes the steps for your to complete a job using Git.
 
@@ -116,33 +111,6 @@ Often we want to switch to a different branch that's available on the server.
 
 ##### More Advanced Commands
 
-###### Initializing a shared remote repository ##
-
-Set up a new _remote_ repository that a group can read/write on the server [Reference](http://kovshenin.com/2011/howto-remote-shared-git-repository/)
-
-You must have write permissions to the directory you want to put the repository in.
-
-First `cd` to `zhanglab/git` or wherever you want to put the repository to create `project.git` remote repository. The common group is `zhanglab`.
-
-	$ newgrp zhanglab
-	$ mkdir -p project.git
-	$ cd project.git
-	$ git init --bare --shared=group
-	$ sudo chgrp -R zhanglab .
-
-Then set up a hook to change the file permissions in
-Create the following file: project.git/hooks/post-update
-
-	#!/bin/sh
-	chmod -R g+rwX . 2>/dev/null
-	chgrp -R zhanglab . 2>/dev/null
-
-
-###### Linking a local git repository to a remote repository ##
-
-1. `$ git init` within the local directory to put it under control
-2. `$ git remote add shortname path_to_remote` where shortname is `research` or `origin` or whatever you want to call it. And `path_to_remote` is a full path to the remote repo.
-3. `$ git push origin master` where origin is the shortname for the remote repo and master is the branch you are on.
 
 
 ###### Git References ##
@@ -171,4 +139,8 @@ You might have read about the git repository structure of a game design company.
 ![Alt text](./figures/GIT_flow.jpg)
 
 According to the picture, we can see that we open a new repository for each project and create a master repository for it. Under that we have the develop branch where most of the work are kept. Under the develop branch we may branch out for various features/experiments of the project, and even smaller ones for individual work. After a good amount and quality of code is written, we may push it back to the develop branch. And when the project is developed enough to write a paper, we would push it to release with all the paper writing components. 
+
+
+## Archive key results data and figure ##
+To deliver the results, we will eventually publish our code together with key metadata files. For example, we will need to save a copy of the identified cluster identity for each cell barcode. Once we finalize the results, we will transfer the key results data and figure to our Boulder Summit storage space under `cd /projects/fanzhanglab@xsede.org` where we have 250 GB/user space.
 
