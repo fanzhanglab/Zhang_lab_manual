@@ -1,6 +1,6 @@
 # The Zhang Lab Manual
 
-![](lab_logo_website.png_)
+![The Zhang lab](lab_logo_website.png)
 
 This repo is about detailed steps for reproducible research in computational science including computational biology, immunogenomics, and data management and integration.
 We recommend every lab member to first read through these documents to understand the contents, which will help you to have a productive and successful experience here.
