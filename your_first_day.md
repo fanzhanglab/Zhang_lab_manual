@@ -7,31 +7,34 @@ Date: June 22, 2021
 
 Last update: Feb 16, 2022
 
-Copyright:
 
 Congratulations, and welcome! This guide is written by people who've been where you are and want to help you to have a productive and successful experience here.
 
-***You should first read through this document and configure your computer with necessary software. Understanding the contents in this document will help you establish a good habit on conducting reproducible computational experiments.***
+First, ask Dr. Zhang to add you to the lab [Trello](https://trello.com/en-US) space and [Github team](https://github.com/fanzhanglab). We use Trello to manage project tasks between lab members, and use Github to perform data analysis for each project-driven repository.
 
-There are a few things you need to do to get started. 
+Second, you should first read through this document and configure your computer with necessary software. Understanding the contents in this document will help you establish a good habit on conducting reproducible computational experiments.There are a few things you need to do to get started on data analysis: 
+
+```
 We do 1) large-scale processing at Boulder Summit (will be Alpine for future), 
 2) then grab the processed data to our local box (e.g. Jupyter notbook), and 
 3) shared code and key results at Github team and 
 4) archive key results data and figure at Boulder Summit storage space.
+```
 
-## Request your account on our server `Summit`.##
-1. Boulder Summit is our primary linux server for computation including read mapping, large-scale gennomics data computation, running jobs. Boulder Summit supports HPC computing. First, you need to obtain RMASS Access to Summit by getting an XSEDE account (for Anschutz campus users) following the steps https://curc.readthedocs.io/en/latest/index.html
 
-2. Read the detailed mannual https://curc.readthedocs.io/en/latest/index.html (e.g. "Running Jobs"), and installing Python and R with Anaconda following the steps from https://curc.readthedocs.io/en/latest/software/python.html.
+## Request your account on our server `Summit`
+1. Boulder Summit is our primary linux server for computation including read mapping, large-scale gennomics data computation, running jobs. Boulder Summit supports HPC computing. First, you need to obtain RMASS Access to Summit by getting an XSEDE account (for Anschutz campus users) following [these steps](https://curc.readthedocs.io/en/latest/index.html).
 
-3. Learn the structure of the Filesystems from https://curc.readthedocs.io/en/latest/compute/filesystems.html
+2. Read the [details](https://curc.readthedocs.io/en/latest/index.html) (e.g. "Running Jobs"), and installing Python and R with Anaconda following the steps [here](https://curc.readthedocs.io/en/latest/software/python.html).
+
+3. Learn the structure of the [Filesystems](https://curc.readthedocs.io/en/latest/compute/filesystems.html).
 
 A terminal application allows you to connect to our server, check the directories and files on it, and perform computations. 
 
 Once you've set up your working environment, then you'll need to start learning about the software, systems and culture for the lab. 
 
 
-## Set Up Your Jupyterlab Working Environment locally##
+## Set Up Your Jupyterlab Working Environment locally
 We perform downstream analysis using Jupyterlab. So far the Summit doesn't allow XSEDE users to access Jupyter notebook given the differences between Boulder and Anschutz in authentication. Please install R version 4.1.2 and Python 3.9.10 locall, and jupyterlab. For the details of how to install Jupyterlab, please check our lab Trello board.
 
 [Here](./reference/linux_tutorial.pdf) is a recommended unix tutorial and tips. You can skip the first part and start reading from Page 6.
@@ -40,7 +43,7 @@ Writing good bash scripts can be challenging. Use this [guide](http://www.tldp.o
 
 
 
-## Sharing code and results through Github##
+## Sharing code and results through Github
 We manage our code repository for each project at https://github.com/fanzhanglab. We strongly encourage every lab member to share code and key results at Github for the purpose of tracking changes, sharing experience, and enhancing collaborations.
 
 Please learn version Control by Git:
@@ -141,6 +144,6 @@ You might have read about the git repository structure of a game design company.
 According to the picture, we can see that we open a new repository for each project and create a master repository for it. Under that we have the develop branch where most of the work are kept. Under the develop branch we may branch out for various features/experiments of the project, and even smaller ones for individual work. After a good amount and quality of code is written, we may push it back to the develop branch. And when the project is developed enough to write a paper, we would push it to release with all the paper writing components. 
 
 
-## Archive key results data and figure ##
+## Archive key results data and figure
 To deliver the results, we will eventually publish our code together with key metadata files. For example, we will need to save a copy of the identified cluster identity for each cell barcode. Once we finalize the results, we will transfer the key results data and figure to our Boulder Summit storage space under `cd /projects/fanzhanglab@xsede.org` where we have 250 GB/user space.
 
