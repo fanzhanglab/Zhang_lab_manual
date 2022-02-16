@@ -4,7 +4,7 @@
 This repo is about detailed steps for reproducible research in computational science including computational biology, immunogenomics, and data management and integration.
 We recommend every lab member to first read through these documents to understand the contents, which will help you to have a productive and successful experience here.
 
-Last update: June 22, 2021
+Last update: Feb 16, 2022
 
 1. [First Day in lab for new members](https://github.com/fzhangcode/Zhang_lab_manual/blob/master/your_first_day.md): You should first read through this document and configure your server and computer with necessary software.
 2. [Handboook for reproducible computational reserach](https://github.com/fzhangcode/Zhang_lab_manual/blob/master/reproducible_research.md): This handbook provids detailed guidance of conducting reproducible computational reserach and some basic skills.
