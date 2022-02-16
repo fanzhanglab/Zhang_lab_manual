@@ -2,6 +2,13 @@
 
 ![The Zhang lab](test.png)
 
+<div style="width: 60%; height: 60%">
+  
+  ![](test.png)
+  
+</div>
+
+
 This repo is about detailed steps for reproducible research in computational science including computational biology, immunogenomics, and data management and integration.
 We recommend every lab member to first read through these documents to understand the contents, which will help you to have a productive and successful experience here.
 
