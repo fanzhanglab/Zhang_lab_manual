@@ -12,7 +12,9 @@ Congratulations, and welcome! This guide is written by people who've been where 
 
 First, ask Dr. Zhang to add you to the lab [Trello](https://trello.com/en-US) space and [Github team](https://github.com/fanzhanglab). We use Trello to manage project tasks between lab members, and use Github to perform data analysis for each project-driven repository. For manuscript writing, we use Google Drive Google docs which enables multiple people working. The paperpile is a good literature reference management softward which is super helpful to insert and sync references in Google doc files and local word files.
 
-Second, you should first read through this document and configure your computer with necessary software. Understanding the contents in this document will help you establish a good habit on conducting reproducible computational experiments.There are a few things you need to do to get started on data analysis: 
+Second, send an email to rc-help@colorado.edu, and ask them to help add you to `fanzhanglabgrp` so that you can access our lab space `/projects/fanzhanglab@xsede.org` and `/scratch/summit/fanzhanglab@xsede.org`.
+
+Then, you should first read through this document and configure your computer with necessary software. Understanding the contents in this document will help you establish a good habit on conducting reproducible computational experiments.There are a few things you need to do to get started on data analysis: 
 
 ```
 We do 1) large-scale processing at Boulder Summit (will be Alpine for future) 
