@@ -14,7 +14,6 @@
 - Subgroup meetings offer a great opportunity to enhance your knowledge of a particular field through discussing any of your challenges, questions, progresses, and brain-stormings on your project.
 
 
-
 #### One-on-one meeting
 - Weekly one-on-one meetings will be held for each member when they join the lab. 
 - Every member will be assigned one or two major projects.
@@ -27,7 +26,8 @@
 - We encourge being on campus between 10:00am and 5:00pm most days will help facilitate collaborative working and get your problems solved in a more efficient manner.
 
 #### Scientific communication
-- In person 
-- Email 
-- Slack
-- Trello
+- In person: scentific meeting 
+- Slack: easy communication on research and lab related work
+- Trello: track progresses on specific tasks on each projects
+- Github: code, analysis, visualization, and electric lab notebook (markdown or jupyter notebook)
+- Email: can be eveything useful and important

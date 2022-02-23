@@ -10,7 +10,7 @@
 
 #### We encourage sharing 
 - Every lab member will share code, data, and relevant lab materials to the Open Access standard based on our best abilities upon publicatoins.
-- For unpublished lab materials (code, software, pipeline, data, manuscript drafts, and grants), we encourage every present and share within lab, and it is possible to share with others outside hte lb upon prior approval by Prof. Zhang and all involved contributors and collaborators.
+- For unpublished lab materials (code, software, pipeline, data, manuscript drafts, and grants), we encourage everyone share within lab, and it is possible to share with others outside the lab upon prior approval by Prof. Zhang and all involved contributors and collaborators.
 
 
 #### We believe that diversity makes better science
