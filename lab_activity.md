@@ -26,7 +26,7 @@
 - We encourge being on campus between 10:00am and 5:00pm most days will help facilitate collaborative working and get your problems solved in a more efficient manner.
 
 #### Scientific communication
-- In person: scientific reserach progress meeting and presentations, etc 
+- In person: scientific reserach progress meetings and presentations, etc 
 - Slack: easy communication on research and lab related work
 - Trello: track progresses on specific tasks on each projects
 - Github: code, analysis, visualization, and electric lab notebook (markdown or jupyter notebook)
