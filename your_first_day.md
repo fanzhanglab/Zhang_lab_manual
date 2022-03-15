@@ -14,12 +14,13 @@ First, ask Dr. Zhang to add you to our lab [Trello](https://trello.com/en-US), [
 ```
 - We use Trello to manage project tasks and track progresses between lab members 
 - We use Github to perform data analysis for each project-driven repository. 
-  This can be used as electric lab notebook (R markdown or Jupyter notebook).
+  This can be viewed as electric lab notebook (R markdown or Jupyter notebook).
 - We use Slack for easy communication.
 - For manuscript writing, we use Google Drive Google docs which enables multiple people working.
 - For reference, we use paperpile which is a good literature reference software to easily insert and sync references. 
 - [Grammarly](https://www.grammarly.com/) is a nice free online writing assistant!
 - For high quality figure generation, we use Illustrator and BioRender if needed.
+- We also use OneDrive to share files between lab members since we have unlimited space from CU.
 ```
 
 Second, send an email to rc-help@colorado.edu, and ask them to help add you to `fanzhanglabgrp` so that you can access our lab space `/projects/fanzhanglab@xsede.org` and `/scratch/summit/fanzhanglab@xsede.org`.
