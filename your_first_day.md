@@ -11,17 +11,20 @@ Last update: Feb 16, 2022
 Congratulations, and welcome! This guide is written by people who've been where you are and want to help you to have a productive and successful experience here.
 
 First, ask Dr. Zhang to add you to the lab [Trello](https://trello.com/en-US) space, [Github team](https://github.com/fanzhanglab), and [Slack](https://slack.com/workspace-signin). 
+```
 - We use Trello to manage project tasks and track progresses between lab members 
 - We use Github to perform data analysis for each project-driven repository. This can be used as electric lab notebook (R markdown or Jupyter notebook).
 - We use Slack for easy communication 
 - For manuscript writing, we use Google Drive Google docs which enables multiple people working. The paperpile is a good literature reference management softward which is super helpful to insert and sync references in Google doc files and local word files. [Grammarly](https://www.grammarly.com/) is a nice free online writing assistant!
+```
 
 Second, send an email to rc-help@colorado.edu, and ask them to help add you to `fanzhanglabgrp` so that you can access our lab space `/projects/fanzhanglab@xsede.org` and `/scratch/summit/fanzhanglab@xsede.org`.
 
 Then, you should first read through this document and configure your computer with necessary software. Understanding the contents in this document will help you establish a good habit on conducting reproducible computational experiments.There are a few things you need to do to get started on data analysis: 
 
 ```
-We do 1) large-scale processing at Boulder Summit (will be Alpine for future) 
+We do
+1) large-scale processing at Boulder Summit (will be Alpine for future) 
 2) then grab the processed data to our local box (e.g. Jupyter notbook) 
 3) share code and key results at specific Github repo 
 4) archive key results data and figure at Boulder Summit storage space
