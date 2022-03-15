@@ -13,7 +13,8 @@ Congratulations, and welcome! This guide is written by people who've been where 
 First, ask Dr. Zhang to add you to our lab [Trello](https://trello.com/en-US), [Github](https://github.com/fanzhanglab), and [Slack](zhanglab.slack.com) space.
 ```
 - We use Trello to manage project tasks and track progresses between lab members 
-- We use Github to perform data analysis for each project-driven repository. This can be used as electric lab notebook (R markdown or Jupyter notebook).
+- We use Github to perform data analysis for each project-driven repository. 
+  This can be used as electric lab notebook (R markdown or Jupyter notebook).
 - We use Slack for easy communication.
 - For manuscript writing, we use Google Drive Google docs which enables multiple people working.
 - For reference, we use paperpile which is a good literature reference software to easily insert and sync references. 
