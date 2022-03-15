@@ -10,7 +10,7 @@ Last update: Feb 16, 2022
 
 Congratulations, and welcome! This guide is written by people who've been where you are and want to help you to have a productive and successful experience here.
 
-First, ask Dr. Zhang to add you to the lab [Trello](https://trello.com/en-US) space, [Github team](https://github.com/fanzhanglab), and [Slack](https://slack.com/workspace-signin). 
+First, ask Dr. Zhang to add you to our lab [Trello](https://trello.com/en-US), [Github](https://github.com/fanzhanglab), and [Slack](zhanglab.slack.com) space.
 ```
 - We use Trello to manage project tasks and track progresses between lab members 
 - We use Github to perform data analysis for each project-driven repository. This can be used as electric lab notebook (R markdown or Jupyter notebook).
