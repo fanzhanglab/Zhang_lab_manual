@@ -2,10 +2,7 @@
 # Your First Day #
 
 Author: Fan Zhang
-
-Date: June 22, 2021
-
-Last update: Feb 16, 2022
+Last Update: March 15th, 2021
 
 
 Congratulations, and welcome! This guide is written by people who've been where you are and want to help you to have a productive and successful experience here.
