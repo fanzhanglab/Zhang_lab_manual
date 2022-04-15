@@ -25,8 +25,8 @@ Second, send an email to rc-help@colorado.edu, and ask them to help add you to `
 Then, you should first read through this document and configure your computer with necessary software. Understanding the contents in this document will help you establish a good habit on conducting reproducible computational experiments.There are a few things you need to do to get started on data analysis: 
 
 We do
-1) large-scale processing at Boulder Summit (will be Alpine for future). For example, learn how to submit a HPC job at [this tutorial](https://github.com/ResearchComputing/CU_DENVER_HPC_2019/blob/master/Job_Submission/hpc_job_submission_CU_Denver_summer2019.pdf) 
-More interesting computing resource including writing scripts and hpc can be found at [CU Boulder Research Computing](https://github.com/ResearchComputing)
+1) large-scale processing at Boulder Summit (will be Alpine for future). For example, learn how to submit a HPC job at [this tutorial](https://github.com/ResearchComputing/CU_DENVER_HPC_2019/blob/master/Job_Submission/hpc_job_submission_CU_Denver_summer2019.pdf).
+ More interesting computing resource including writing scripts and hpc can be found at [CU Boulder Research Computing](https://github.com/ResearchComputing).
 2) then grab the processed data to our local box (e.g. Jupyter notbook) 
 3) share code and key results at specific Github repo 
 4) archive key results data and figure at Boulder Summit storage space
