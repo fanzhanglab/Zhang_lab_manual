@@ -26,7 +26,7 @@ Then, you should first read through this document and configure your computer wi
 
 ```
 We do
-1) large-scale processing at Boulder Summit (will be Alpine for future) 
+1) large-scale processing at Boulder Summit (will be Alpine for future). For example, learn how to submit a HPC job at [here](https://github.com/ResearchComputing/CU_DENVER_HPC_2019/blob/master/Job_Submission/hpc_job_submission_CU_Denver_summer2019.pdf). 
 2) then grab the processed data to our local box (e.g. Jupyter notbook) 
 3) share code and key results at specific Github repo 
 4) archive key results data and figure at Boulder Summit storage space
