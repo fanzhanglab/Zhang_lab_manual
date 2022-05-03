@@ -1,6 +1,6 @@
 # Learning resource: Statistical/machine learning books and code tutorial
 
-#### R 
+#### R playground 
 - "R for Data Science": [free PDF](https://r4ds.had.co.nz/index.html)
 - "The R Graph Gallery": [code examples](https://r-graph-gallery.com/)
 
