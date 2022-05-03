@@ -1,5 +1,9 @@
 # Classical books and papers #
 
+#### R 
+- "R for Data Science": [free PDF](https://r4ds.had.co.nz/index.html)
+- "The R Graph Gallery": [code examples](https://r-graph-gallery.com/)
+
 #### Statistical Machine Learning Books 
 - "Machine Learning: A Probabilistic Perspective": [free PDF](https://probml.github.io/pml-book/book0.html)
 - "Probabilistic Machine Learning: An Introduction": [free PDF](https://probml.github.io/pml-book/book1.html)
