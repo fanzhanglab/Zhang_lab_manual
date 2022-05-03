@@ -1,4 +1,4 @@
-# Learning resource: Statistical and machine learning books and code tutorial#
+# Learning resource: Statistical and machine learning books and code tutorial
 
 #### R 
 - "R for Data Science": [free PDF](https://r4ds.had.co.nz/index.html)
