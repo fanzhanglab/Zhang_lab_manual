@@ -190,7 +190,7 @@ Most of your code will fall into the pure function category and you can keep thi
 # Set up Jupyter working environment and install dependencies #
 
 #### Install conda
-https://conda.io/docs/user-guide/install/macos.html
+https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html
 `bash Miniconda3-latest-Linux-x86_64.sh`
 
 #### Install tmux
