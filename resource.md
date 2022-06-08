@@ -2,6 +2,7 @@
 
 #### R playground 
 - "R for Data Science": [free PDF](https://r4ds.had.co.nz/index.html)
+- "An Introduction to Machine Learning with R" [link](https://lgatto.github.io/IntroMachineLearningWithR/an-introduction-to-machine-learning-with-r.html)
 - "The R Graph Gallery": [code examples](https://r-graph-gallery.com/)
 
 #### Statistical Machine Learning Books 
