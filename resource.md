@@ -4,6 +4,7 @@
 - "R for Data Science": [free PDF](https://r4ds.had.co.nz/index.html)
 - "An Introduction to Machine Learning with R": [link](https://lgatto.github.io/IntroMachineLearningWithR/an-introduction-to-machine-learning-with-r.html)
 - "The R Graph Gallery": [code examples](https://r-graph-gallery.com/)
+- "Applied Generalized Linear Models and Multilevel Models in R": [code](https://bookdown.org/roback/bookdown-BeyondMLR/)
 
 #### Statistical Machine Learning Books 
 - "Machine Learning: A Probabilistic Perspective": [free PDF](https://probml.github.io/pml-book/book0.html)
