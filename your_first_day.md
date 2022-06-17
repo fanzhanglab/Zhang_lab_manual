@@ -20,7 +20,7 @@ First, ask Dr. Zhang to add you to our lab [Trello](https://trello.com/en-US), [
 - We also use OneDrive to share files between lab members since we have unlimited space from CU.
 ```
 
-Second, send an email to rc-help@colorado.edu, and ask them to help add you to `fanzhanglabgrp` so that you can access our lab space `/projects/fanzhanglab@xsede.org` and `/scratch/summit/fanzhanglab@xsede.org`.
+Second, if you do not yet have a CURC account via XSEDE, please go ahead and create one, per https://curc.readthedocs.io/en/latest/access/rmacc.html. Once you have an account, send an email to rc-help@colorado.edu, and ask them to help add you to `fanzhanglabgrp` so that you can access our lab space `/projects/fanzhanglab@xsede.org` and `/scratch/summit/fanzhanglab@xsede.org`.
 
 Then, you should first read through this document and configure your computer with necessary software. Understanding the contents in this document will help you establish a good habit on conducting reproducible computational experiments.There are a few things you need to do to get started on data analysis: 
 
