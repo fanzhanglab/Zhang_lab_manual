@@ -349,8 +349,12 @@ To go back to a previous occurrence, press Shift-n. To search backwards in a fil
 
 :noh - To turn off highlighting until the next search
 
+j and k move down and up one line, so 10j and 10k move down and up ten lines. 
 
 ```
+
+Besides, check the ways of how to easily move your cursor in Vim:
+![Alt text](./figures/move_cursor.png)
 
 
 # Software #
