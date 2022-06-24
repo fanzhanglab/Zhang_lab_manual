@@ -204,7 +204,6 @@ https://github.com/jupyterlab/jupyterlab#installation
 `conda install -c conda-forge nodejs`
 
 #### Install R 
-`conda install -c r r-base ` **R 3.6.1** (no lib)
 
 `conda install -c conda-forge/label/gcc7 r-base `  install **R 3.6.1** (current using)
 
