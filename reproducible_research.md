@@ -347,6 +347,8 @@ Ctrl + r - Redo the last undo
 To look for the next occurrence after the first, either press n or press / again and then press Enter. 
 To go back to a previous occurrence, press Shift-n. To search backwards in a file, use the ? command.
 
+:noh - To turn off highlighting until the next search
+
 
 ```
 
