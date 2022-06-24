@@ -343,7 +343,9 @@ Ctrl + r - Redo the last undo
 
 :14 - You can also use the ex command line to go to a line
 
-/blimp - Press Esc and then enter /pattern, replacing pattern with the text for which you want to search forward. To look for the next occurrence after the first, either press n or press / again and then press Enter. To go back to a previous occurrence, press Shift-n. To search backwards in a file, use the ? command.
+/blimp - Press Esc and then enter /pattern, replacing pattern with the text for which you want to search forward. 
+To look for the next occurrence after the first, either press n or press / again and then press Enter. 
+To go back to a previous occurrence, press Shift-n. To search backwards in a file, use the ? command.
 
 
 ```
