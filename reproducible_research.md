@@ -256,7 +256,7 @@ Refer to https://gist.github.com/molpopgen/3267efe08a0a4c23835249a955db37a2
 `ssh -N -L 8888:localhost:8888 cn009`
 
 
-### Some tips
+### Some tips of working on the server: e.g., conda forge
 
 - Error: `(nzchar(SHLIB_LIBADD)) SHLIB_LIBADD else character()`:
 Check the `miniconda3/lib/R/etc/` **Makeconf** file
@@ -303,7 +303,50 @@ make install
 ```
 
 
+# Popular Vim comments
 
+```
+yy - Copies a line
+
+yw - Copies a word
+
+y$ - Copies from where your cursor is to the end of a line
+
+v - Highlight one character at a time using arrow buttons or the h, k, j, l buttons
+
+V - Highlights one line, and movement keys can allow you to highlight additional lines
+
+p - Paste whatever has been copied to the unnamed register
+
+d - Deletes highlighted text
+
+dd - Deletes a line of text
+
+dw - Deletes a word
+
+D - Deletes everything from where your cursor is to the end of the line
+
+d0 - Deletes everything from where your cursor is to the beginning of the line
+
+dgg - Deletes everything from where your cursor is to the beginning of the file
+
+dG - Deletes everything from where your cursor is to the end of the file
+
+x - Deletes a single character
+
+u - Undo the last operation; u# allows you to undo multiple actions
+
+Ctrl + r - Redo the last undo
+
+. - Repeats the last action
+
+
+:14 - You can also use the ex command line to go to a line
+
+/blimp - Press Esc and then enter /pattern, replacing pattern with the text for which you want to search forward. To look for the next occurrence after the first, either press n or press / again and then press Enter. To go back to a previous occurrence, press Shift-n. To search backwards in a file, use the ? command.
+
+
+```
 
 
 # Software #
