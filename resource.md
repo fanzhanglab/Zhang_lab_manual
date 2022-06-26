@@ -7,8 +7,6 @@ It is exciting to become a Computational Biologist working in transformative res
 Here I tried to list great papers/books that cover the key reserach topics in our lab. Many of them are "must read" for our lab. We are expanding this list and welcome any of our team members to contribute to this. I hope these can guide you into this exciting field and find out your own interests to make an impact!
 
 <br />
-<br />
-<br />
 
 
 ### Background on RNA-seq
