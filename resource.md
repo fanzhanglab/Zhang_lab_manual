@@ -1,4 +1,6 @@
-# Learning resource: Statistical/machine learning books and code tutorial
+# Learning resource: Statistical/machine learning papers/books and code tutorial
+
+As a Computational Biologist working for Transformative Research, one needs to know multi-disciplinary from genomics, genetics, coding, statistics, machine learning, and translational medicine, etc. Here I tried to list great papers/books that cover the key reserach in our lab, which can guide you into this exciting field and find out what your own interests! 
 
 #### R playground 
 - "R for Data Science": [free PDF](https://r4ds.had.co.nz/index.html)
@@ -11,4 +13,37 @@
 - "Probabilistic Machine Learning: An Introduction": [free PDF](https://probml.github.io/pml-book/book1.html)
 - "Probabilistic Machine Learning: Advanced Topics": [free PDF](https://probml.github.io/pml-book/book2.html)
 - "Deep Generative Modeling": [free PDF](https://link.springer.com/book/10.1007/978-3-030-93158-2) and corresponding [example code](https://github.com/jmtomczak/intro_dgm).
+
+
+#### Background on RNA-seq
+- RNA-sequencing introduction: [RNA-Seq: a revolutionary tool for transcriptomics](https://www.nature.com/articles/nrg2484), Nature Reviews Genetics
+- A nice review of RNA-seq analysis: [From RNA-seq reads to dierential expression results](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-12-220), Genome Biology
+
+#### Single-cell multi-omics analytical challenges
+- [Computational challenges and opportunities in Single-cell transcriptomics](https://www.nature.com/articles/s12276-020-0422-0), Nature EMM
+- [Computational principles and challenges in single-cell data integration](https://www.nature.com/articles/s41587-021-00895-7), Nature Biotechnology
+- [Eleven grand challenges in single-celldata science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6), Genome Biology
+- [Single-cell RNA sequencing to explore immune cell heterogeneity](https://www.nature.com/articles/nri.2017.76), Nature Reviews Immunology
+- [Current best practices in single-cell RNA-seqanalysis: a tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746), Molecular Systems Biology
+
+#### Benchmarking papers on method comparison in an unbiased manner
+- [Benchmarking atlas-level data integration in single-cell genomics](https://www.nature.com/articles/s41592-021-01336-8), Nature Methods
+- [A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9)
+- [Benchmarking spatial and single-cell transcriptomics integration methods for transcript distribution prediction and cell type deconvolution](https://www.nature.com/articles/s41592-022-01480-9), Nature Methods
+- [A comparison of single-cell trajectory inference methods](https://www.nature.com/articles/s41587-019-0071-9), Nature Biotechnology
+- [Systematic comparison of single-cell and single-nucleus RNA-sequencing methods](https://www.nature.com/articles/s41587-020-0465-8), Nature Biotechnology
+
+### Single-cell omics reveal insights into inflammatory and autoimmune diseases
+- [Insights into rheumatic diseases from next- generation  sequencing](https://www.nature.com/articles/s41584-019-0217-7), Nature Reviews Rheumatology
+- [Single-cell technologies — studying rheumatic diseases one cell at a time](https://www.nature.com/articles/s41584-019-0220-z), Nature Reviews Rheumatology
+- [Not a losing battle: Single cell tools provide new insights into chronic autoimmune diseases](https://www.10xgenomics.com/blog/not-a-losing-battle-single-cell-tools-provide-new-insights-into-chronic-autoimmune-diseases), 10X Genomics Blog
+- [Single-cell eQTL mapping identifies cell type-specific genetic control of autoimmune disease](https://www.science.org/doi/10.1126/science.abf3041), Science
+- [Defining inflammatory cell states in rheumatoid arthritis joint synovial tissues by integrating single-cell transcriptomics and mass cytometry](https://www.nature.com/articles/s41590-019-0378-1), Nature Immunology
+- [IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 lungs and inflammatory diseases with tissue inflammation](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00881-3), Genome Medicine
+
+
+
+
+
+
 
