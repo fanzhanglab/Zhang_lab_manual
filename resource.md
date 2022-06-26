@@ -1,6 +1,8 @@
-# Learning resource: Statistical/machine learning papers/books and code tutorial
+# Learning resource for the Zhang Lab
 
-It is exciting to become a Computational Biologist working in transformative reserach, which means you may become an expert in multiple hot fields: genomics, genetics, coding, statistics, machine learning, systems immunology, and translational medicine, etc. Here I tried to list great papers/books that cover the key reserach topics in our lab. Many of these are "must read" for our lab. I hope these can guide you into this exciting field and find out your own interests to make an impact! 
+It is exciting to become a Computational Biologist working in transformative reserach, which means you may become an expert in multiple hot fields: genomics, genetics, coding, statistics, machine learning, systems immunology, and translational medicine, etc. I hope you select 3 from these fields and dive deeper into them. 
+
+Here I tried to list great papers/books that cover the key reserach topics in our lab. Many of them are "must read" for our lab. We are expanding this list and welcome any of our team members to contribute to this. I hope these can guide you into this exciting field and find out your own interests to make an impact!
 
 #### Background on RNA-seq
 - RNA-sequencing introduction: [RNA-Seq: a revolutionary tool for transcriptomics](https://www.nature.com/articles/nrg2484), Nature Reviews Genetics
@@ -49,7 +51,7 @@ It is exciting to become a Computational Biologist working in transformative res
 - "Deep Generative Modeling": [free PDF](https://link.springer.com/book/10.1007/978-3-030-93158-2) and corresponding [example code](https://github.com/jmtomczak/intro_dgm).
 
 
-FYI - we are expanding this list and welcome our team members to contribute to this. Stay tuned!
+Stay tuned!
 
 
 
