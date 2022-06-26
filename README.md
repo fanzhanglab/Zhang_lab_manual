@@ -16,7 +16,6 @@ Last Update: June 26, 2022
 4. [**Lab principles**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/lab_principle.md): We believe in collaborations, encourage sharing, promote diversity, and maintain scientific integrity to pursue high-quality science.
 
 5. [**Lab activities**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/lab_activity.md): We manage our lab time in multiple meetings to help you gain great research skills and advance your career development.
-<br />
 
 6. [**Expectations and achievements**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/for_trainee.md): To achieve your reserach goals, we develop publishable and impactful independent and collaborative projects and expect all lab members to submit abstracts, publish papers, and/or present your work in public.
 <br />
