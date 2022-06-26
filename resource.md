@@ -4,7 +4,7 @@ It is exciting to become a Computational Biologist working in transformative res
 
 Here I tried to list great papers/books that cover the key reserach topics in our lab. Many of them are "must read" for our lab. We are expanding this list and welcome any of our team members to contribute to this. I hope these can guide you into this exciting field and find out your own interests to make an impact!
 
-![Alt text](./figures/fields.png)
+![Alt text](./figures/fields_smaller.png)
 
 ### Background on RNA-seq
 - RNA-sequencing introduction: [RNA-Seq: a revolutionary tool for transcriptomics](https://www.nature.com/articles/nrg2484), Nature Reviews Genetics
