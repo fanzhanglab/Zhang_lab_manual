@@ -1,19 +1,6 @@
 # Learning resource: Statistical/machine learning papers/books and code tutorial
 
-As a Computational Biologist working for Transformative Research, one needs to know multi-disciplinary from genomics, genetics, coding, statistics, machine learning, and translational medicine, etc. Here I tried to list great papers/books that cover the key reserach in our lab, which can guide you into this exciting field and find out what your own interests! 
-
-#### R playground 
-- "R for Data Science": [free PDF](https://r4ds.had.co.nz/index.html)
-- "An Introduction to Machine Learning with R": [link](https://lgatto.github.io/IntroMachineLearningWithR/an-introduction-to-machine-learning-with-r.html)
-- "The R Graph Gallery": [code examples](https://r-graph-gallery.com/)
-- "Applied Generalized Linear Models and Multilevel Models in R": [code](https://bookdown.org/roback/bookdown-BeyondMLR/)
-
-#### Statistical Machine Learning Books 
-- "Machine Learning: A Probabilistic Perspective": [free PDF](https://probml.github.io/pml-book/book0.html)
-- "Probabilistic Machine Learning: An Introduction": [free PDF](https://probml.github.io/pml-book/book1.html)
-- "Probabilistic Machine Learning: Advanced Topics": [free PDF](https://probml.github.io/pml-book/book2.html)
-- "Deep Generative Modeling": [free PDF](https://link.springer.com/book/10.1007/978-3-030-93158-2) and corresponding [example code](https://github.com/jmtomczak/intro_dgm).
-
+It is exciting to become a Computational Biologist working in transformative reserach, which means you may become an expert in multiple hot fields: genomics, genetics, coding, statistics, machine learning, systems immunology, and translational medicine, etc. Here I tried to list great papers/books that cover the key reserach topics in our lab. Many of these are "must read" for our lab. I hope these can guide you into this exciting field and find out your own interests to make an impact! 
 
 #### Background on RNA-seq
 - RNA-sequencing introduction: [RNA-Seq: a revolutionary tool for transcriptomics](https://www.nature.com/articles/nrg2484), Nature Reviews Genetics
@@ -32,6 +19,12 @@ As a Computational Biologist working for Transformative Research, one needs to k
 - [Benchmarking spatial and single-cell transcriptomics integration methods for transcript distribution prediction and cell type deconvolution](https://www.nature.com/articles/s41592-022-01480-9), Nature Methods
 - [A comparison of single-cell trajectory inference methods](https://www.nature.com/articles/s41587-019-0071-9), Nature Biotechnology
 - [Systematic comparison of single-cell and single-nucleus RNA-sequencing methods](https://www.nature.com/articles/s41587-020-0465-8), Nature Biotechnology
+- [A comparison of single-cell trajectory inference methods](https://www.nature.com/articles/s41587-019-0071-9). Check [dynverse.org](https://dynverse.org/) for more information.
+- [Evaluation of single-cell classifiers for single-cell RNA sequencing data sets](https://academic.oup.com/bib/article/21/5/1581/5593804?login=false), Briefings in Bioinfomratics. 9 tools have been systematically compared in this article.
+- [Deciphering cell–cell interactions and communication from gene expression](https://www.nature.com/articles/s41576-020-00292-x), Nature Reviews Genetics
+- [Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data](https://www.nature.com/articles/s41592-019-0690-6)
+- [Comparison of methods to detect differentially expressed genes between single-cell populations](https://academic.oup.com/bib/article/18/5/735/2562772?login=false)
+
 
 ### Single-cell omics reveal insights into inflammatory and autoimmune diseases
 - [Insights into rheumatic diseases from next- generation  sequencing](https://www.nature.com/articles/s41584-019-0217-7), Nature Reviews Rheumatology
@@ -42,8 +35,21 @@ As a Computational Biologist working for Transformative Research, one needs to k
 - [IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 lungs and inflammatory diseases with tissue inflammation](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00881-3), Genome Medicine
 
 
+#### R playground 
+- "R for Data Science": [free PDF](https://r4ds.had.co.nz/index.html)
+- "An Introduction to Machine Learning with R": [link](https://lgatto.github.io/IntroMachineLearningWithR/an-introduction-to-machine-learning-with-r.html)
+- "The R Graph Gallery": [code examples](https://r-graph-gallery.com/)
+- "Applied Generalized Linear Models and Multilevel Models in R": [code](https://bookdown.org/roback/bookdown-BeyondMLR/)
 
 
+#### Statistical Machine Learning Books 
+- "Machine Learning: A Probabilistic Perspective": [free PDF](https://probml.github.io/pml-book/book0.html)
+- "Probabilistic Machine Learning: An Introduction": [free PDF](https://probml.github.io/pml-book/book1.html)
+- "Probabilistic Machine Learning: Advanced Topics": [free PDF](https://probml.github.io/pml-book/book2.html)
+- "Deep Generative Modeling": [free PDF](https://link.springer.com/book/10.1007/978-3-030-93158-2) and corresponding [example code](https://github.com/jmtomczak/intro_dgm).
+
+
+FYI - we are expanding this list and welcome our team members to contribute to this. Stay tuned!
 
 
 
