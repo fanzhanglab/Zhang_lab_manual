@@ -1,21 +1,23 @@
 # Learning resource for the Zhang Lab
 
-It is exciting to become a Computational Biologist working in transformative reserach, which means you may become an expert in multiple hot fields: genomics, genetics, coding, statistics, machine learning, systems immunology, and translational medicine, etc. I hope you select 3 from these fields and dive deeper into them. 
+It is exciting to become a Computational Biologist working in transformative reserach, which means you may become an expert in multiple hot fields: genomics, genetics, coding, statistics, machine learning, systems immunology, and translational medicine, etc. I hope you select > 3 from these fields and dive deeper into them. 
 
 Here I tried to list great papers/books that cover the key reserach topics in our lab. Many of them are "must read" for our lab. We are expanding this list and welcome any of our team members to contribute to this. I hope these can guide you into this exciting field and find out your own interests to make an impact!
 
-#### Background on RNA-seq
+![Alt text](./figures/fields.png)
+
+### Background on RNA-seq
 - RNA-sequencing introduction: [RNA-Seq: a revolutionary tool for transcriptomics](https://www.nature.com/articles/nrg2484), Nature Reviews Genetics
 - A nice review of RNA-seq analysis: [From RNA-seq reads to dierential expression results](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-12-220), Genome Biology
 
-#### Single-cell multi-omics analytical challenges
+### Single-cell multi-omics analytical challenges
 - [Computational challenges and opportunities in Single-cell transcriptomics](https://www.nature.com/articles/s12276-020-0422-0), Nature EMM
 - [Computational principles and challenges in single-cell data integration](https://www.nature.com/articles/s41587-021-00895-7), Nature Biotechnology
 - [Eleven grand challenges in single-celldata science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6), Genome Biology
 - [Single-cell RNA sequencing to explore immune cell heterogeneity](https://www.nature.com/articles/nri.2017.76), Nature Reviews Immunology
 - [Current best practices in single-cell RNA-seqanalysis: a tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746), Molecular Systems Biology
 
-#### Benchmarking papers on method comparison in an unbiased manner
+### Benchmarking papers on method comparison in an unbiased manner
 - [Benchmarking atlas-level data integration in single-cell genomics](https://www.nature.com/articles/s41592-021-01336-8), Nature Methods
 - [A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9)
 - [Benchmarking spatial and single-cell transcriptomics integration methods for transcript distribution prediction and cell type deconvolution](https://www.nature.com/articles/s41592-022-01480-9), Nature Methods
@@ -37,14 +39,14 @@ Here I tried to list great papers/books that cover the key reserach topics in ou
 - [IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 lungs and inflammatory diseases with tissue inflammation](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00881-3), Genome Medicine
 
 
-#### R playground 
+### R playground 
 - "R for Data Science": [free PDF](https://r4ds.had.co.nz/index.html)
 - "An Introduction to Machine Learning with R": [link](https://lgatto.github.io/IntroMachineLearningWithR/an-introduction-to-machine-learning-with-r.html)
 - "The R Graph Gallery": [code examples](https://r-graph-gallery.com/)
 - "Applied Generalized Linear Models and Multilevel Models in R": [code](https://bookdown.org/roback/bookdown-BeyondMLR/)
 
 
-#### Statistical Machine Learning Books 
+### Statistical Machine Learning Books 
 - "Machine Learning: A Probabilistic Perspective": [free PDF](https://probml.github.io/pml-book/book0.html)
 - "Probabilistic Machine Learning: An Introduction": [free PDF](https://probml.github.io/pml-book/book1.html)
 - "Probabilistic Machine Learning: Advanced Topics": [free PDF](https://probml.github.io/pml-book/book2.html)
