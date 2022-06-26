@@ -2,11 +2,13 @@
 
 It is exciting to become a Computational Biologist working in transformative reserach, which means you may become an expert in multiple hot fields: genomics, genetics, coding, statistics, machine learning, systems immunology, and translational medicine, etc. I hope you select > 3 from these fields and dive deeper into them. 
 
-<img src="https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/fields.png" width="400" align="right">
+<img src="https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/fields.png" width="500" align="right">
 
 Here I tried to list great papers/books that cover the key reserach topics in our lab. Many of them are "must read" for our lab. We are expanding this list and welcome any of our team members to contribute to this. I hope these can guide you into this exciting field and find out your own interests to make an impact!
 
-
+<br />
+<br />
+<br />
 
 
 ### Background on RNA-seq
