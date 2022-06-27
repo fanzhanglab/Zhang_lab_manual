@@ -1,10 +1,10 @@
-# Learning resource for the Zhang Lab
+# Learning resources for the Zhang Lab
 
 It is exciting to become a Computational Biologist working in transformative reserach, which means you may become an expert in multiple hot fields: genomics, genetics, coding, statistics, machine learning, systems immunology, and translational medicine, etc. I hope you select > 3 from these fields and dive deeper into them. 
 
 <img src="https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/fields.png" width="500" align="right">
 
-Here I tried to list great papers and classical books that cover the key research topics in our lab. Many of them are "must read" for our lab. We are expanding this list and welcome any of our team members to contribute to this. We hope to make this helpful resources for everyone to guide you into this exciting field and find out your own interests to make an impact!
+Here I tried to list great papers and classical books that cover the key research topics in our lab. Many of them are "must read" for our lab. *We are expanding this list and welcome any of our team members to contribute to this.* We hope to make this helpful resources for everyone to guide you into this exciting field and find out your own interests to make an impact!
 
 <br />
 
