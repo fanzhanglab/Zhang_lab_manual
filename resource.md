@@ -22,7 +22,7 @@ Here I tried to list great papers and classical books that cover the key researc
 
 ### Benchmarking papers on method comparison in an unbiased manner
 - [Benchmarking atlas-level data integration in single-cell genomics](https://www.nature.com/articles/s41592-021-01336-8), Nature Methods
-- [A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9)
+- [A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9), Genome Biology
 - [Benchmarking spatial and single-cell transcriptomics integration methods for transcript distribution prediction and cell type deconvolution](https://www.nature.com/articles/s41592-022-01480-9), Nature Methods
 - [A comparison of single-cell trajectory inference methods](https://www.nature.com/articles/s41587-019-0071-9), Nature Biotechnology
 - [Systematic comparison of single-cell and single-nucleus RNA-sequencing methods](https://www.nature.com/articles/s41587-020-0465-8), Nature Biotechnology
