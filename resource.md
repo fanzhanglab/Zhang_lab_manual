@@ -14,6 +14,7 @@ Here I tried to list great papers and classical books that cover the key researc
 - A nice review of RNA-seq analysis: [From RNA-seq reads to dierential expression results](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-12-220), Genome Biology
 
 ### Single-cell multi-omics analytical challenges
+- [The triumphs and limitations of computational methods for scRNA-seq](https://www.nature.com/articles/s41592-021-01171-x), Nature Methods
 - [Computational challenges and opportunities in Single-cell transcriptomics](https://www.nature.com/articles/s12276-020-0422-0), Nature EMM
 - [Computational principles and challenges in single-cell data integration](https://www.nature.com/articles/s41587-021-00895-7), Nature Biotechnology
 - [Eleven grand challenges in single-celldata science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6), Genome Biology
