@@ -50,7 +50,7 @@ Here I tried to list great papers and classical books that cover the key researc
 - Good coding style in R: [The tidyverse coding style](https://style.tidyverse.org/)
 - Package Development Guidelines: [R Code Development](https://contributions.bioconductor.org/r-code.html#r-code): Re-use of functionality, classes, and generics, function development, robust and efficient R code
 - The R Graph Gallery: [code examples](https://r-graph-gallery.com/)
-- Applied Generalized Linear Models and Multilevel Models in R: [code](https://bookdown.org/roback/bookdown-BeyondMLR/)
+- Applied Generalized Linear Models and Multilevel Models in R - Beyond Multiple Linear Regression: [code](https://bookdown.org/roback/bookdown-BeyondMLR/)
 
 
 ### Statistical Machine Learning Books 
