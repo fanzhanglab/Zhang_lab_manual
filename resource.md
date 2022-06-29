@@ -29,8 +29,8 @@ Here I tried to list great papers and classical books that cover the key researc
 - [A comparison of single-cell trajectory inference methods](https://www.nature.com/articles/s41587-019-0071-9). Check [dynverse.org](https://dynverse.org/) for more information.
 - [Evaluation of single-cell classifiers for single-cell RNA sequencing data sets](https://academic.oup.com/bib/article/21/5/1581/5593804?login=false), Briefings in Bioinfomratics. 9 tools have been systematically compared in this article.
 - [Deciphering cell–cell interactions and communication from gene expression](https://www.nature.com/articles/s41576-020-00292-x), Nature Reviews Genetics
-- [Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data](https://www.nature.com/articles/s41592-019-0690-6)
-- [Comparison of methods to detect differentially expressed genes between single-cell populations](https://academic.oup.com/bib/article/18/5/735/2562772?login=false)
+- [Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data](https://www.nature.com/articles/s41592-019-0690-6), Nature Methods
+- [Comparison of methods to detect differentially expressed genes between single-cell populations](https://academic.oup.com/bib/article/18/5/735/2562772?login=false), Briefings in Bioinformatics
 
 
 ### Single-cell omics reveal insights into inflammatory and autoimmune diseases
@@ -50,6 +50,7 @@ Here I tried to list great papers and classical books that cover the key researc
 - Package Development Guidelines: [R Code Development](https://contributions.bioconductor.org/r-code.html#r-code): Re-use of functionality, classes, and generics, function development, robust and efficient R code
 - The R Graph Gallery: [code examples](https://r-graph-gallery.com/)
 - Applied Generalized Linear Models and Multilevel Models in R: [code](https://bookdown.org/roback/bookdown-BeyondMLR/)
+- [Applied Statistics for Experimental Biology](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/): offers many useful examples with R code, and even an comprehensive introduction of useful R packages, R Markdown, and generalized linear models.
 
 
 ### Statistical Machine Learning Books 
