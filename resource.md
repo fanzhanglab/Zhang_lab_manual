@@ -43,14 +43,14 @@ Here I tried to list great papers and classical books that cover the key researc
 
 
 ### R playground 
+- [Applied Statistics for Experimental Biology](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/): offers many useful examples with R code, and even an comprehensive introduction of useful R packages, R Markdown, and generalized linear models.
 - R for Data Science: [free PDF](https://r4ds.had.co.nz/index.html)
 - An Introduction to Machine Learning with R: [link](https://lgatto.github.io/IntroMachineLearningWithR/an-introduction-to-machine-learning-with-r.html)
 - R Style Guide: [Google's R Style Guide](https://google.github.io/styleguide/Rguide.html)
-- Good coding style in R:[The tidyverse coding style](https://style.tidyverse.org/)
+- Good coding style in R: [The tidyverse coding style](https://style.tidyverse.org/)
 - Package Development Guidelines: [R Code Development](https://contributions.bioconductor.org/r-code.html#r-code): Re-use of functionality, classes, and generics, function development, robust and efficient R code
 - The R Graph Gallery: [code examples](https://r-graph-gallery.com/)
 - Applied Generalized Linear Models and Multilevel Models in R: [code](https://bookdown.org/roback/bookdown-BeyondMLR/)
-- [Applied Statistics for Experimental Biology](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/): offers many useful examples with R code, and even an comprehensive introduction of useful R packages, R Markdown, and generalized linear models.
 
 
 ### Statistical Machine Learning Books 
