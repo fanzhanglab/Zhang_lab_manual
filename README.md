@@ -10,13 +10,13 @@ We recommend every lab member from the [Zhang Lab](https://fanzhanglab.org/) to 
 
 :star: [**Handboook for reproducible computational reserach**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/reproducible_research.md): This handbook provids detailed guidance of conducting reproducible computational reserach and some basic skills.
 
-3. [**Learning rescources**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/resource.md): Have a read of high-impactful papers and books in the fields of statistical modeling, machine learning, computational genomics, code examples, and other related topics for transformative research.
+:star: [**Learning rescources**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/resource.md): Have a read of high-impactful papers and books in the fields of statistical modeling, machine learning, computational genomics, code examples, and other related topics for transformative research.
  
-4. [**Lab principles**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/lab_principle.md): We believe in collaborations, encourage sharing, promote diversity, and maintain scientific integrity to pursue high-quality science.
+:star: [**Lab principles**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/lab_principle.md): We believe in collaborations, encourage sharing, promote diversity, and maintain scientific integrity to pursue high-quality science.
 
-5. [**Lab activities**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/lab_activity.md): We manage our lab time in multiple meetings to help you gain great research skills and advance your career development.
+:star: [**Lab activities**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/lab_activity.md): We manage our lab time in multiple meetings to help you gain great research skills and advance your career development.
 
-6. [**Expectations and achievements**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/for_trainee.md): To achieve your reserach goals, we develop publishable and impactful independent and collaborative projects and expect all lab members to submit abstracts, publish papers, and/or present your work in public.
+:star: [**Expectations and achievements**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/for_trainee.md): To achieve your reserach goals, we develop publishable and impactful independent and collaborative projects and expect all lab members to submit abstracts, publish papers, and/or present your work in public.
 <br />
 Last Update: July 1st, 2022
 <br />
