@@ -15,7 +15,7 @@
 
 
 #### One-on-one meeting
-- Weekly one-on-one meetings will be held for each member when they join the lab. 
+- Weekly one-on-one meetings will be held for each member when they join the lab. We have Thursdays as our 1-1 meeting day!
 - Every member will be assigned one or two major projects.
 - We track everyone's progressed on specific tasks using Trello. So we can generate "TODO" list on everyone's Trello project board after each one-on-one meeting, and we mark the tasks as "Done" by examing it on our next one-on-one meeting. We will break down a "big task" into multiple measureable "small tasks".
 
