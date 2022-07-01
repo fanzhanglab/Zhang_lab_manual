@@ -5,9 +5,10 @@
 This repo is about detailed steps for reproducible research in computational science, including computational biology, immunogenomics, multi-omics data integration, and transformative research.
 We recommend every lab member from the [Zhang Lab](https://fanzhanglab.org/) to first read through these documents to understand the contents, which will help you to have a productive and successful experience here.
 
-1. :star: [**First Day in lab for new members**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/your_first_day.md): You should first read through this document and configure your server and computer with necessary software.
+:star: [**First Day in lab for new members**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/your_first_day.md): You should first read through this document and configure your server and computer with necessary software.
 
-2. [**Handboook for reproducible computational reserach**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/reproducible_research.md): This handbook provids detailed guidance of conducting reproducible computational reserach and some basic skills.
+
+:star: [**Handboook for reproducible computational reserach**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/reproducible_research.md): This handbook provids detailed guidance of conducting reproducible computational reserach and some basic skills.
 
 3. [**Learning rescources**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/resource.md): Have a read of high-impactful papers and books in the fields of statistical modeling, machine learning, computational genomics, code examples, and other related topics for transformative research.
  
