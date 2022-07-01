@@ -54,7 +54,7 @@ Here I tried to list great papers and classical books that cover the key researc
 - Applied Generalized Linear Models and Multilevel Models in R - Beyond Multiple Linear Regression: [code](https://bookdown.org/roback/bookdown-BeyondMLR/)
 
 
-### :star: Statistical Machine Learning Books 
+### :star:  Statistical Machine Learning Books 
 - "Machine Learning: A Probabilistic Perspective": [free PDF](https://probml.github.io/pml-book/book0.html)
 - "Probabilistic Machine Learning: An Introduction": [free PDF](https://probml.github.io/pml-book/book1.html)
 - "Probabilistic Machine Learning: Advanced Topics": [free PDF](https://probml.github.io/pml-book/book2.html)
