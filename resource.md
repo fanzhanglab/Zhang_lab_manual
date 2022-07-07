@@ -12,6 +12,7 @@ Here I tried to list great papers and classical books that cover the key researc
 ### :star: Background on RNA-seq
 - RNA-sequencing introduction: [RNA-Seq: a revolutionary tool for transcriptomics](https://www.nature.com/articles/nrg2484), Nature Reviews Genetics
 - A nice review of RNA-seq analysis: [From RNA-seq reads to dierential expression results](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-12-220), Genome Biology
+- [A detailed introduction with nice illustrations for single-cell RNA-seq](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/scrna-intro/slides-plain.html)
 
 ### :star: Single-cell multi-omics analytical challenges
 - [The triumphs and limitations of computational methods for scRNA-seq](https://www.nature.com/articles/s41592-021-01171-x), Nature Methods
