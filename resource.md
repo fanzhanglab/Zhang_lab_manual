@@ -53,13 +53,14 @@ Here I tried to list great papers and classical books that cover the key researc
 - Package Development Guidelines: [R Code Development](https://contributions.bioconductor.org/r-code.html#r-code): Re-use of functionality, classes, and generics, function development, robust and efficient R code
 - The R Graph Gallery: [code examples](https://r-graph-gallery.com/)
 - Applied Generalized Linear Models and Multilevel Models in R - Beyond Multiple Linear Regression: [code](https://bookdown.org/roback/bookdown-BeyondMLR/)
+- [tidymodels Labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html) includes code with comments for the 2nd version of "An introduction for statistical learning". For example, it includes [Moving Beyond Linearity](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/moving-beyond-linearity.html) and [Unsupervised Learning](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/unsupervised-learning.html), etc.
 
-
-### :star: Statistical Machine Learning Books 
+### :star: Statistical Machine Learning Code and Books 
 - "Machine Learning: A Probabilistic Perspective": [free PDF](https://probml.github.io/pml-book/book0.html)
 - "Probabilistic Machine Learning: An Introduction": [free PDF](https://probml.github.io/pml-book/book1.html)
 - "Probabilistic Machine Learning: Advanced Topics": [free PDF](https://probml.github.io/pml-book/book2.html)
 - "Deep Generative Modeling": [free PDF](https://link.springer.com/book/10.1007/978-3-030-93158-2) and corresponding [example code](https://github.com/jmtomczak/intro_dgm).
+- (Awesome Machine Learning)[https://github.com/HFTrader/awesome-machine-learning]: A curated list of awesome machine learning frameworks, libraries, software, and free books! 
 
 
 Stay tuned :fire:
