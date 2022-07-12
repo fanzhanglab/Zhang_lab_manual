@@ -60,7 +60,7 @@ Here I tried to list great papers and classical books that cover the key researc
 - "Probabilistic Machine Learning: An Introduction": [free PDF](https://probml.github.io/pml-book/book1.html)
 - "Probabilistic Machine Learning: Advanced Topics": [free PDF](https://probml.github.io/pml-book/book2.html)
 - "Deep Generative Modeling": [free PDF](https://link.springer.com/book/10.1007/978-3-030-93158-2) and corresponding [example code](https://github.com/jmtomczak/intro_dgm).
-- (Awesome Machine Learning)[https://github.com/HFTrader/awesome-machine-learning]: A curated list of awesome machine learning frameworks, libraries, software, and free books! 
+- [Awesome Machine Learning](https://github.com/HFTrader/awesome-machine-learning): A curated list of awesome machine learning frameworks, libraries, software, and free books! 
 
 
 Stay tuned :fire:
