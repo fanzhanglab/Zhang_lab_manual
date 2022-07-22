@@ -47,6 +47,7 @@ Here I tried to list great papers and classical books that cover the key researc
 ### :star: R playground 
 - [Applied Statistics for Experimental Biology](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/): offers many useful examples with R code, and even an comprehensive introduction of useful R packages, R Markdown, and generalized linear models.
 - R for Data Science: [free PDF](https://r4ds.had.co.nz/index.html)
+- Data Science for Biological, Medical and Health Research: [Notes and code](https://thomaselove.github.io/432-notes/index.html). It includes multiple statistical modeling strategies, e.g., [modeling a Count Outcome](https://thomaselove.github.io/432-notes/modeling-a-count-outcome-in-ohio-smart.html).
 - An Introduction to Machine Learning with R: [link](https://lgatto.github.io/IntroMachineLearningWithR/an-introduction-to-machine-learning-with-r.html)
 - R Style Guide: [Google's R Style Guide](https://google.github.io/styleguide/Rguide.html)
 - Good coding style in R: [The tidyverse coding style](https://style.tidyverse.org/)
