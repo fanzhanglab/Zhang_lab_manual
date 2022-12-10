@@ -51,6 +51,8 @@ We encourage to consider the conferences below based on our lab interests:
 
 #### Computational biology and bioinformatics conferences: 
 
+- ISMB Rocky Mountain Bioinformatics Conference - <https://www.iscb.org/rocky2022>
+
 - ISMB (International Society for Computational Biology) - <http://www.iscb.org/about-ismb>
 
 - GLBIO (Great Lakes Bioinformatics) Conference - <https://www.iscb.org/glbio2021>
@@ -63,7 +65,7 @@ We encourage to consider the conferences below based on our lab interests:
 
 - Single Cell Biology Keystone Symposia - <https://virtual.keystonesymposia.org/ks/live/606/page/4851>
 
-#### Clinical immunology and rheumatology conferences:
+#### Translational medicine and systems immunology conferences:
 
 - FOCIS (Federation of Clinical Immunology Societies) - <https://www.focisnet.org/>
 - ACR (American College of Rheumatology) - <https://www.rheumatology.org/>
