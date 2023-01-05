@@ -80,6 +80,9 @@ We encourage to consider the conferences below based on our lab interests:
 
 - FOCIS (Federation of Clinical Immunology Societies) - <https://www.focisnet.org/meetings/focis-2023/submit-an-abstract/>
   - *Deadline for Abstract Submission: Wednesday, January 18, 2023*
+  
+- Systems Immunology from Cold Spring Harbor Laboratory <https://meetings.cshl.edu/meetings.aspx?meet=SYSIMM&year=23>
+  - *Abstract Deadline: January 27, 2023*
 
 - ACR (American College of Rheumatology) - <https://www.rheumatology.org/Annual-Meeting>
   - *Not out yet: usually deadline for abstract submission is June*
