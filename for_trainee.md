@@ -51,24 +51,36 @@ We encourage to consider the conferences below based on our lab interests:
 
 #### Computational biology and bioinformatics conferences: 
 
+- ISMB (International Society for Computational Biology) - <https://www.iscb.org/ismbeccb2023-dates>
+  -- Abstract submission deadline: Thursday, April 20, 2023
+
+- GLBIO (Great Lakes Bioinformatics) Conference - <https://www.iscb.org/glbio2023-calls/talk-and-poster>
+  -- Oral presentation/poster submission deadline: March 16, 2023.
+  -- Full paper for oral presentation: The Bioinformatics Advances Journal has committed to considering publication of a special issue for peer-reviewed articles from the conference. Submission deadline: February 9, 2023
+
 - ISMB Rocky Mountain Bioinformatics Conference - <https://www.iscb.org/rocky2022>
+  -- Usually the abstract submission deadline is [October](https://www.iscb.org/rocky2022-submissions/rocky2022-call-abstracts) 
 
-- ISMB (International Society for Computational Biology) - <http://www.iscb.org/about-ismb>
-
-- GLBIO (Great Lakes Bioinformatics) Conference - <https://www.iscb.org/glbio2021>
-
-- RECOMB (Research in Computational Molecular Biology) - <https://www.recomb2021.org/>
+- RECOMB (Research in Computational Molecular Biology) - <http://recomb2023.bilkent.edu.tr/keydates_and_deadlines.html>
+  -- Abstract submission deadline: January 21, 2023
 
 - BoG (The Biology of Genomes) - <https://meetings.cshl.edu/meetings.aspx?meet=genome&year=21>
+  -- Abstract Deadline: February 17, 2023
+  -- The James P. Taylor Foundation for Open Science will award six scholarships covering full conference registration to outstanding graduate students. Application deadline is February 6, 2023. For details and application instructions, visit [here](https://jxtxfoundation.org/news/2022-12-16-bg/).
 
 #### Single-cell biology conferences:
 
 - Single Cell Biology Keystone Symposia - <https://virtual.keystonesymposia.org/ks/live/606/page/4851>
+  -- Not out yet
 
 #### Translational medicine and systems immunology conferences:
 
-- FOCIS (Federation of Clinical Immunology Societies) - <https://www.focisnet.org/>
-- ACR (American College of Rheumatology) - <https://www.rheumatology.org/>
+- FOCIS (Federation of Clinical Immunology Societies) - <https://www.focisnet.org/meetings/focis-2023/submit-an-abstract/>
+ -- Deadline for Abstract Submission: Wednesday, January 18, 2023
+
+- ACR (American College of Rheumatology) - <https://www.rheumatology.org/Annual-Meeting>
+  -- Not out yet: usually deadline for abstract submission is June
+
 
 Prof. Zhang is happy to help revise your manuscript and abstract drafts and provide detailed guidance on presentations.
 
