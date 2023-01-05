@@ -52,11 +52,13 @@ We encourage to consider the conferences below based on our lab interests:
 #### Computational biology and bioinformatics conferences: 
 
 - ISMB (International Society for Computational Biology) - <https://www.iscb.org/ismbeccb2023-dates>
+
   *Abstract submission deadline: Thursday, April 20, 2023*
+  
 
 - GLBIO (Great Lakes Bioinformatics) Conference - <https://www.iscb.org/glbio2023-calls/talk-and-poster>
-  -- Oral presentation/poster submission deadline: March 16, 2023.
-  -- Full paper for oral presentation: The Bioinformatics Advances Journal has committed to considering publication of a special issue for peer-reviewed articles from the conference. Submission deadline: February 9, 2023
+  *Oral presentation/poster submission deadline: March 16, 2023.*
+  *Full paper for oral presentation: The Bioinformatics Advances Journal has committed to considering publication of a special issue for peer-reviewed articles from the conference. Submission deadline: February 9, 2023*
 
 - ISMB Rocky Mountain Bioinformatics Conference - <https://www.iscb.org/rocky2022>
   -- Usually the abstract submission deadline is [October](https://www.iscb.org/rocky2022-submissions/rocky2022-call-abstracts) 
