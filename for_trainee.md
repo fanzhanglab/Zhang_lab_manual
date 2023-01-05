@@ -57,10 +57,6 @@ We encourage to consider the conferences below based on our lab interests:
 - BoG (The Biology of Genomes) - <https://meetings.cshl.edu/meetings.aspx?meet=genome&year=21>
   - *Abstract Deadline: February 17, 2023*
   - *The James P. Taylor Foundation for Open Science will award six scholarships covering full conference registration to outstanding graduate students. Application deadline is February 6, 2023. For details and application instructions, visit [here](https://jxtxfoundation.org/news/2022-12-16-bg/).*
-
-- ISMB (International Society for Computational Biology) - <https://www.iscb.org/ismbeccb2023-dates>
-
-  - *Abstract submission deadline: Thursday, April 20, 2023*
   
 
 - GLBIO (Great Lakes Bioinformatics) Conference - <https://www.iscb.org/glbio2023-calls/talk-and-poster>
@@ -68,11 +64,16 @@ We encourage to consider the conferences below based on our lab interests:
   - *Full paper for oral presentation: The Bioinformatics Advances Journal has committed to considering publication of a special issue for peer-reviewed articles from the conference. Submission deadline: February 9, 2023*
 
 
-  - Single Cell Biology Keystone Symposia - <https://virtual.keystonesymposia.org/ks/live/606/page/4851>
-    - *Not out yet*
+- ISMB (International Society for Computational Biology) - <https://www.iscb.org/ismbeccb2023-dates>
 
-  - ISMB Rocky Mountain Bioinformatics Conference - <https://www.iscb.org/rocky2022>
-    - *Usually the abstract submission deadline is [October](https://www.iscb.org/rocky2022-submissions/rocky2022-call-abstracts)*
+  - *Abstract submission deadline: Thursday, April 20, 2023*
+  
+  
+- Single Cell Biology Keystone Symposia - <https://virtual.keystonesymposia.org/ks/live/606/page/4851>
+  - *Not out yet*
+
+- ISMB Rocky Mountain Bioinformatics Conference - <https://www.iscb.org/rocky2022>
+  - *Usually the abstract submission deadline is [October](https://www.iscb.org/rocky2022-submissions/rocky2022-call-abstracts)*
   
   
 #### Translational medicine and systems immunology conferences:
