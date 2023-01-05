@@ -51,7 +51,7 @@ We encourage to consider the conferences below based on our lab interests:
 
 #### Computational biology and bioinformatics conferences: 
 
-- *RECOMB* (Research in Computational Molecular Biology) - <http://recomb2023.bilkent.edu.tr/keydates_and_deadlines.html>
+- **RECOMB** (Research in Computational Molecular Biology) - <http://recomb2023.bilkent.edu.tr/keydates_and_deadlines.html>
   - *Abstract submission deadline: January 21, 2023*
 
 - BoG (The Biology of Genomes) - <https://meetings.cshl.edu/meetings.aspx?meet=genome&year=21>
