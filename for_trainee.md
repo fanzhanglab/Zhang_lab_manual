@@ -60,10 +60,10 @@ We encourage to consider the conferences below based on our lab interests:
   
 
 - **GLBIO** (Great Lakes Bioinformatics) Conference - <https://www.iscb.org/glbio2023-calls/talk-and-poster>
-  - *Abstracts for Oral Presentation submissions to GLBIO 2023 should be approximately 400 words and have no figures. Adding references to already published papers is recommended where appropriate. Submission deadline in Easychair is March 16, 2023.
+  - Abstracts for Oral Presentation submissions to GLBIO 2023 should be approximately 400 words and have no figures. Adding references to already published papers is recommended where appropriate. Submission deadline in Easychair is March 16, 2023.
   - *Oral presentation/poster submission deadline: March 16, 2023.*
-  - *McGill University in Montreal; May 15-18
-  - *Full paper for oral presentation: The Bioinformatics Advances Journal has committed to considering publication of a special issue for peer-reviewed articles from the conference. Submission deadline: February 9, 2023*
+  - McGill University in Montreal; May 15-18
+  - Full paper for oral presentation: The Bioinformatics Advances Journal has committed to considering publication of a special issue for peer-reviewed articles from the conference. Submission deadline: February 9, 2023*
 
 
 - **ISMB** (International Society for Computational Biology) - <https://www.iscb.org/ismbeccb2023-dates>
