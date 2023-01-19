@@ -54,13 +54,15 @@ We encourage to consider the conferences below based on our lab interests:
 - **RECOMB** (Research in Computational Molecular Biology) - <http://recomb2023.bilkent.edu.tr/keydates_and_deadlines.html>
   - *Abstract submission deadline: January 21, 2023*
 
-- **BoG** (The Biology of Genomes) - <https://meetings.cshl.edu/meetings.aspx?meet=genome&year=21>
+- **BoG** (The Biology of Genomes) - <https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=23>
   - *Abstract Deadline: February 17, 2023*
   - *The James P. Taylor Foundation for Open Science will award six scholarships covering full conference registration to outstanding graduate students. Application deadline is February 6, 2023. For details and application instructions, visit [here](https://jxtxfoundation.org/news/2022-12-16-bg/).*
   
 
 - **GLBIO** (Great Lakes Bioinformatics) Conference - <https://www.iscb.org/glbio2023-calls/talk-and-poster>
+  - *Abstracts for Oral Presentation submissions to GLBIO 2023 should be approximately 400 words and have no figures. Adding references to already published papers is recommended where appropriate. Submission deadline in Easychair is March 16, 2023.
   - *Oral presentation/poster submission deadline: March 16, 2023.*
+  - *McGill University in Montreal; May 15-18
   - *Full paper for oral presentation: The Bioinformatics Advances Journal has committed to considering publication of a special issue for peer-reviewed articles from the conference. Submission deadline: February 9, 2023*
 
 
@@ -82,7 +84,8 @@ We encourage to consider the conferences below based on our lab interests:
   - *Deadline for Abstract Submission: Wednesday, January 18, 2023*
   
 - **Systems Immunology** from Cold Spring Harbor Laboratory <https://meetings.cshl.edu/meetings.aspx?meet=SYSIMM&year=23>
-  - *Abstract Deadline: January 27, 2023*
+  - *Abstract Deadline: January 27, 2023*; limited to ~2900 characters 
+  - Need to register first, and then submit an abstract 
 
 - **ACR** (American College of Rheumatology) - <https://www.rheumatology.org/Annual-Meeting>
   - *Not out yet: usually deadline for abstract submission is June*
