@@ -6,6 +6,16 @@
 - Everyone will iteratively present their reserach project progresses at lab meeting.
 - Please contact Prof. Zhang in advance if someone is not able to attend due to research business like attending conference or training, etc.
 
+#### Journal club
+Fan will select a paper that is relevant to our lab's interests and cutting-edge.
+Each lab member will select 1 or 2 figures to present, and lead the discussions.
+Let's focus on 5 aspects of this paper through discussions:
+- Motivation: why? a needed tool, a knowledge gap, etc?
+- Novelty of methodology: computational biology and machine learning
+- Significant scientific results: systems biology interpretation
+- Relevence to our work: method benchmarking, study design, modeling, logic, etc?
+- Limitations of this work 
+
 
 #### Subgroup meeting
 - Besides weekly lab meetings, we also organize two subgroup meetings based on our lab's research interests.
