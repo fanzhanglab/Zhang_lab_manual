@@ -1,6 +1,7 @@
 # The Zhang Lab Manual
 
 <img src="https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/lab_logo_website.png" width="220" align="right">
+![](https://komarev.com/ghpvc/?username=fanzhanglab&style=flat-square&color=green)
 
 This repo is about detailed steps for reproducible research in computational science, including computational biology, immunogenomics, multi-omics data integration, and transformative research.
 We recommend every lab member from the [Zhang Lab](https://fanzhanglab.org/) to first read through these documents to understand the contents, which will help you to have a productive and successful experience here.
