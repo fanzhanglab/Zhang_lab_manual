@@ -507,8 +507,4 @@ Try out a few sample bioinformatics problems to build your programming skills an
 
 ## Creating Packages in R
 
-To create a Package in R for better reproducibilty of your code, Please follow this blog: [Creating packages in R using Devtools and usethis](https://medium.com/@reyvnth/866349560e12)
-
-# Unfinished Business #
-
-We can also create our own virtual machine loaded with enthought and other stack options. Anyone want to take the initiative on this?
+To create a Package in R for better reproducibilty of your code, Please follow this blog [Creating packages in R using Devtools and usethis](https://medium.com/@reyvnth/866349560e12) written by Revanth from our team.
