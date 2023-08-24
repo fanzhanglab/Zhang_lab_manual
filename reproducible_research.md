@@ -505,6 +505,9 @@ Check out the [Brown University course] (https://www.coursera.org/course/matrix)
 Try out a few sample bioinformatics problems to build your programming skills and thinking about bioinformatics problems. 
  * [Rosalind](http://rosalind.info)
 
+## Creating Packages in R
+
+To create a Package in R for better reproducibilty of your code, Please follow this blog: [Creating packages in R using Devtools and usethis](https://medium.com/@reyvnth/866349560e12)
 
 # Unfinished Business #
 
