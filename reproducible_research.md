@@ -507,4 +507,4 @@ Try out a few sample bioinformatics problems to build your programming skills an
 
 ## Creating Packages in R
 
-To create a Package in R for better reproducibilty of your code, Please follow this blog [Creating packages in R using Devtools and usethis](https://medium.com/@reyvnth/866349560e12) written by Revanth from our team.
+To create a Package in R for better reproducibilty of your current functions/code, please follow this blog [Creating packages in R using Devtools and usethis](https://medium.com/@reyvnth/866349560e12) written by Revanth from our team. Check [github.com/fanzhanglab/stCCA](https://github.com/fanzhanglab/stCCA) as an example.
