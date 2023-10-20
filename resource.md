@@ -1,28 +1,29 @@
 # Learning resources for the Zhang Lab
 
-It is exciting to become a Computational Biologist working in transformative reserach, which means you may become an expert in multiple hot fields: genomics, genetics, coding, statistics, machine learning, systems immunology, and translational medicine, etc. I hope you select > 3 from these fields and dive deeper into them. 
+It is exciting to become a Computational Biologist working in transformative research, which means you may become an expert in multiple hot fields: genomics, genetics, coding, statistics, machine learning, systems immunology, translational medicine, etc. I hope you select > 3 from these fields and dive deeper into them. 
 
 <img src="https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/fields.png" width="500" align="right">
 
-Here I tried to list great papers and classical books that cover the key research topics in our lab. Many of them are "must read" :book: for our lab. *We are expanding this list and welcome any of our team members to contribute to this.* We hope these resources could guide you to start this exciting field and find out your own interests to make an impact!
+Here, we list great papers and classical books that cover the key research topics in our lab. Many of them are "must read" :book: for our lab. *We are expanding this list and welcome any of our team members to contribute to this.* We hope these resources can guide you to start this exciting field and find out your own interests to make an impact!
 
 <br />
 
 
 ### :star: Background on RNA-seq
 - RNA-sequencing introduction: [RNA-Seq: a revolutionary tool for transcriptomics](https://www.nature.com/articles/nrg2484), Nature Reviews Genetics
-- A nice review of RNA-seq analysis: [From RNA-seq reads to dierential expression results](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-12-220), Genome Biology
+- A nice review of RNA-seq analysis: [From RNA-seq reads to differential expression results](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-12-220), Genome Biology
 - [A detailed introduction with nice illustrations for single-cell RNA-seq](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/scrna-intro/slides-plain.html)
 
 ### :star: Single-cell multi-omics analytical challenges
 - [The triumphs and limitations of computational methods for scRNA-seq](https://www.nature.com/articles/s41592-021-01171-x), Nature Methods
 - [Computational challenges and opportunities in Single-cell transcriptomics](https://www.nature.com/articles/s12276-020-0422-0), Nature EMM
 - [Computational principles and challenges in single-cell data integration](https://www.nature.com/articles/s41587-021-00895-7), Nature Biotechnology
-- [Eleven grand challenges in single-celldata science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6), Genome Biology
+- [Eleven grand challenges in single-cell data science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6), Genome Biology
 - [Single-cell RNA sequencing to explore immune cell heterogeneity](https://www.nature.com/articles/nri.2017.76), Nature Reviews Immunology
-- [Current best practices in single-cell RNA-seqanalysis: a tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746), Molecular Systems Biology
+- [Current best practices in single-cell RNA-seq analysis: a tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746), Molecular Systems Biology
 
 ### :star: Benchmarking papers on method comparison in an unbiased manner
+- [Principles and challenges of modeling temporal and spatial omics data](https://www.nature.com/articles/s41592-023-01992-y)
 - [Benchmarking atlas-level data integration in single-cell genomics](https://www.nature.com/articles/s41592-021-01336-8), Nature Methods
 - [A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9), Genome Biology
 - [Advances in spatial transcriptomic data analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8494229/), Genome Research
@@ -30,14 +31,19 @@ Here I tried to list great papers and classical books that cover the key researc
 - [A comparison of single-cell trajectory inference methods](https://www.nature.com/articles/s41587-019-0071-9), Nature Biotechnology
 - [Systematic comparison of single-cell and single-nucleus RNA-sequencing methods](https://www.nature.com/articles/s41587-020-0465-8), Nature Biotechnology
 - [A comparison of single-cell trajectory inference methods](https://www.nature.com/articles/s41587-019-0071-9). Check [dynverse.org](https://dynverse.org/) for more information.
-- [Evaluation of single-cell classifiers for single-cell RNA sequencing data sets](https://academic.oup.com/bib/article/21/5/1581/5593804?login=false), Briefings in Bioinfomratics. 9 tools have been systematically compared in this article.
+- [Evaluation of single-cell classifiers for single-cell RNA sequencing data sets](https://academic.oup.com/bib/article/21/5/1581/5593804?login=false), Briefings in Bioinformatics. 9 tools have been systematically compared in this article.
 - [Deciphering cell–cell interactions and communication from gene expression](https://www.nature.com/articles/s41576-020-00292-x), Nature Reviews Genetics
 - [Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data](https://www.nature.com/articles/s41592-019-0690-6), Nature Methods
 - [Comparison of methods to detect differentially expressed genes between single-cell populations](https://academic.oup.com/bib/article/18/5/735/2562772?login=false), Briefings in Bioinformatics
 
 
+### :star: Computational method development papers for single-cell data
+- [Stabilized mosaic single-cell data integration using unshared features](https://www.nature.com/articles/s41587-023-01766-z), Nature Biotechnology
+- [Co-varying neighborhood analysis identifies cell populations associated with phenotypes of interest from single-cell transcriptomics](https://www.nature.com/articles/s41587-021-01066-4), Nature Biotechnology
+
+
 ### :star: Single-cell omics reveal insights into inflammatory and autoimmune diseases
-- [Insights into rheumatic diseases from next- generation  sequencing](https://www.nature.com/articles/s41584-019-0217-7), Nature Reviews Rheumatology
+- [Insights into rheumatic diseases from next-generation sequencing](https://www.nature.com/articles/s41584-019-0217-7), Nature Reviews Rheumatology
 - [Single-cell technologies — studying rheumatic diseases one cell at a time](https://www.nature.com/articles/s41584-019-0220-z), Nature Reviews Rheumatology
 - [Not a losing battle: Single cell tools provide new insights into chronic autoimmune diseases](https://www.10xgenomics.com/blog/not-a-losing-battle-single-cell-tools-provide-new-insights-into-chronic-autoimmune-diseases), 10X Genomics Blog
 - [Single-cell eQTL mapping identifies cell type-specific genetic control of autoimmune disease](https://www.science.org/doi/10.1126/science.abf3041), Science
@@ -46,7 +52,7 @@ Here I tried to list great papers and classical books that cover the key researc
 
 
 ### :star: R playground 
-- [Applied Statistics for Experimental Biology](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/): offers many useful examples with R code, and even an comprehensive introduction of useful R packages, R Markdown, and generalized linear models.
+- [Applied Statistics for Experimental Biology](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/): offers many useful examples with R code, and even a comprehensive introduction of useful R packages, R Markdown, and generalized linear models.
 - R for Data Science: [free PDF](https://r4ds.had.co.nz/index.html)
 - Data Science for Biological, Medical and Health Research: [Notes and code](https://thomaselove.github.io/432-notes/index.html). It includes multiple statistical modeling strategies, e.g., [modeling a Count Outcome](https://thomaselove.github.io/432-notes/modeling-a-count-outcome-in-ohio-smart.html).
 - An Introduction to Machine Learning with R: [link](https://lgatto.github.io/IntroMachineLearningWithR/an-introduction-to-machine-learning-with-r.html)
