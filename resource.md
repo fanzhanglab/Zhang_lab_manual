@@ -40,6 +40,8 @@ Here, we list great papers and classical books that cover the key research topic
 ### :star: Computational method development papers for single-cell data
 - [Stabilized mosaic single-cell data integration using unshared features](https://www.nature.com/articles/s41587-023-01766-z), Nature Biotechnology
 - [Co-varying neighborhood analysis identifies cell populations associated with phenotypes of interest from single-cell transcriptomics](https://www.nature.com/articles/s41587-021-01066-4), Nature Biotechnology
+- [Fast, sensitive and accurate integration of single-cell data with Harmony](https://www.nature.com/articles/s41587-023-01766-z), Nature Methods
+- [Efficient and precise single-cell reference atlas mapping with Symphony](https://www.nature.com/articles/s41467-021-25957-x), Nature Communications
 
 
 ### :star: Single-cell omics reveal insights into inflammatory and autoimmune diseases
