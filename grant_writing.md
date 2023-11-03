@@ -3,7 +3,7 @@
 
 ### Author: Fan Zhang
 
-Writing grants is a critical step during the journey of scientific research. Specific Aims page is the most important page for the whole grant proposal. Below we would like to highlight several key steps that we learned from our own experience and others (e.g., Dr. David Veenstra's talk) regarding drafting good Specific Aims page.
+Writing grants is a critical step during the journey of scientific research. Specific Aims page is the most important page for the whole grant proposal. Below we would like to highlight several key steps that we learned from our own experience and others (e.g., Dr. David Veenstra's talk), focusing on drafting good Specific Aims page.
 
 Understand your reviewers
 --------
