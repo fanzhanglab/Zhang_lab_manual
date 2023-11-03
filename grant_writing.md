@@ -1,9 +1,9 @@
 
-# Tutorials of writing grants
+# Tutorials and experience of writing grants
 
 ### Author: Fan Zhang
 
-Writing grants is a critical step during the journey of scientific research. Specific Aims page is the most important page for the whole grant proposal. Below we would like to highlight several key steps that we learned from our own experience and others (e.g., Dr. David Veenstra's talk) regarding drafting good Specific Aims page. 
+Writing grants is a critical step during the journey of scientific research. Specific Aims page is the most important page for the whole grant proposal. Below we would like to highlight several key steps that we learned from our own experience and others (e.g., Dr. David Veenstra's talk) regarding drafting good Specific Aims page.
 
 Understand your reviewers
 --------
@@ -52,10 +52,10 @@ Specific Aims Structure
     - Your next Approach section is the most boring and difficult part of the proposal to review. You must motivate the reader to want to understand the approach BEFORE you get into the details later.
 
 7. **What are the expected outcomes**? `Aims details`
-    - Briefly describ the outcome for each aim.
+    - Briefly describe the outcome for each aim.
 
 8. **What are your hypotheses**? `Aims details`
-    - Should have these as appropriate; but I have seen no aim-specific hypotheses. A general/gloval hypothesis before the aims section
+    - Should have these as appropriate; but I have seen no aim-specific hypotheses. A general hypothesis before the aims section
 
 9. **How would your results be used**? `Summary paragraph` 
     - Final paragraph sells it. Hilighlight implications, significance, and novelty. Don't mention the aim and methods again. 
