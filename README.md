@@ -12,7 +12,9 @@ We recommend every lab member from the [Zhang Lab](https://fanzhanglab.org/) to 
 
 :star: [**Handboook for reproducible computational research**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/reproducible_research.md): This handbook provids detailed guidance of conducting reproducible computational reserach and some basic skills.
 
-:star: [**Learning rescources**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/resource.md): Have a read of high-impactful papers and books in the fields of statistical modeling, machine learning, computational genomics, code examples, and other related topics for transformative research.
+:star: [**Learning rescources**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/resource.md): 
+- Have a read of high-impactful papers in the fields of *single-cell omics*, *statistical modeling*, *machine learning*, and *computational genomics* with code examples.
+- Welcome to learn the tips of [writing grants](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/grant_writing.md).
  
 :star: [**Lab principles**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/lab_principle.md): We believe in collaborations, encourage sharing, promote diversity, and maintain scientific integrity to pursue high-quality science.
 
