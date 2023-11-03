@@ -1,7 +1,7 @@
 
 # Tutorials of writing grants
 
-Writing grants is a critical step during the journey of scientific research. Specific Aims page is the most important page for the whole grant proposal. Below we would like to highlight several key steps that we learned from our own experience and others (Dr. David Veenstra's talk) regarding drafting good Specific Aims page. 
+Writing grants is a critical step during the journey of scientific research. Specific Aims page is the most important page for the whole grant proposal. Below we would like to highlight several key steps that we learned from our own experience and others (e.g., Dr. David Veenstra's talk) regarding drafting good Specific Aims page. 
 
 Understand your reviewers: Reviewers are tired, so make their life easier
 --------
@@ -12,9 +12,9 @@ Tips
 --------
 - **Use active tense**. "I will perform X analysis to ..." instead of "This analysis is done; Data will be collected."
 - **Avoid jargon**. Many of them don't know the specific biology you focused on. Not all the reviewers have a similar background and understand the methods that you proposed. 
-    -- For example, "We propose to address these challenges using decision-analytic modeling." Reviewers may not understand why this method, if this method will work, etc. So, it would be better to write down "We propose to address these challenges using decision-analytic modeling that synthesizes findings from genomic, clinical, epidemiological, and patient outcome data."
-    -- Another example, something like "We will develop a non-linear computational approach using deep learning models by extending our previously established linear models" would be better than "We will develop a complex deep learning approach".
-- **Start early** - don't be hesitate. Then share the draft with your mentors and collaborators
+-- For example, "We propose to address these challenges using decision-analytic modeling." Reviewers may not understand why this method, if this method will work, etc. So, it would be better to write down "We propose to address these challenges using decision-analytic modeling that synthesizes findings from genomic, clinical, epidemiological, and patient outcome data."
+-- Another example, something like "We will develop a non-linear computational approach using deep learning models by extending our previously established linear models" would be better than "We will develop a complex deep learning approach".
+- **Start early**. Don't be hesitate. Then share the draft with your mentors and collaborators
 - **Revise, revise, revise**.
 
 
