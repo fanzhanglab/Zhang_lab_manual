@@ -23,5 +23,5 @@ We recommend every lab member from the [Zhang Lab](https://fanzhanglab.org/) to 
 :star: [**Expectations and achievements**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/for_trainee.md): To achieve your reserach goals, we develop publishable and impactful independent and collaborative projects and expect all lab members to submit abstracts, publish papers, and/or present your work in public.
 
 <br />
-Last Update: July 1st, 2022
+Last Update: No 3rd, 2023
 <br />
