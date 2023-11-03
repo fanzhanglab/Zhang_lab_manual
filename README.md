@@ -9,12 +9,12 @@ We recommend every lab member from the [Zhang Lab](https://fanzhanglab.org/) to 
 
 :star: [**First Day in lab for new members**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/your_first_day.md): You should first read through this document and configure your server and computer with necessary software.
 
-
 :star: [**Handboook for reproducible computational research**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/reproducible_research.md): This handbook provids detailed guidance of conducting reproducible computational reserach and some basic skills.
 
 :star: [**Learning rescources**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/resource.md): 
-- Have a read of high-impactful papers in the fields of *single-cell omics*, *statistical modeling*, *machine learning*, and *computational genomics* with code examples.
+- Have a read of [high-impact papers](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/resource.md) we organized covering *single-cell omics*, *statistical modeling*, *machine learning*, and *computational genomics* with code examples.
 - Welcome to learn the tips of [writing grants](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/grant_writing.md).
+ 
  
 :star: [**Lab principles**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/lab_principle.md): We believe in collaborations, encourage sharing, promote diversity, and maintain scientific integrity to pursue high-quality science.
 
