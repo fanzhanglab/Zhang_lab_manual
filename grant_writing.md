@@ -5,8 +5,9 @@
 
 Writing grants is a critical step during the journey of scientific research. Specific Aims page is the most important page for the whole grant proposal. Below we would like to highlight several key steps that we learned from our own experience and others (e.g., Dr. David Veenstra's talk) regarding drafting good Specific Aims page. 
 
-Understand your reviewers: Reviewers are tired, so make their life easier
+Understand your reviewers
 --------
+- **Reviewers are tired, so make their life easier**.
 - **Use white space, bold, and underline thoughtfully**
 - Use succinct sentences. Delete every word that is not needed. **Not a single word that is not needed**. 
 
