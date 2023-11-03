@@ -21,7 +21,7 @@ We recommend every lab member from the [Zhang Lab](https://fanzhanglab.org/) to 
 
 :star: [**Lab activities**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/lab_activity.md): We manage our lab time in multiple meetings to help you gain great research skills and advance your career development.
 
-:star: [**Expectations and achievements**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/for_trainee.md): To achieve your reserach goals, we develop publishable and impactful independent and collaborative projects and expect all lab members to submit abstracts, publish papers, and/or present your work in public.
+:star: [**Expectations and achievements**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/for_trainee.md): To achieve your research goals, we highly encourage all lab members to submit abstracts, publish papers, and/or present our work in public.
 
 <br />
 Last Update: No 3rd, 2023
