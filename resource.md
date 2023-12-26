@@ -45,6 +45,7 @@ Here, we list great papers and classical books that cover the key research topic
 
 
 ### :star: Single-cell omics reveal insights into inflammatory and autoimmune diseases
+- [Deconstruction of rheumatoid arthritis synovium defines inflammatory subtypes](https://www.nature.com/articles/s41586-023-06708-y), Nature
 - [Insights into rheumatic diseases from next-generation sequencing](https://www.nature.com/articles/s41584-019-0217-7), Nature Reviews Rheumatology
 - [Single-cell technologies — studying rheumatic diseases one cell at a time](https://www.nature.com/articles/s41584-019-0220-z), Nature Reviews Rheumatology
 - [Not a losing battle: Single cell tools provide new insights into chronic autoimmune diseases](https://www.10xgenomics.com/blog/not-a-losing-battle-single-cell-tools-provide-new-insights-into-chronic-autoimmune-diseases), 10X Genomics Blog
