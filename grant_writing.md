@@ -23,7 +23,7 @@ Tips
 - **Start early**. Don't be hesitate. Then share the draft with your mentors and collaborators
 - **Revise, revise, revise**.
 
-- ![Page limits ](https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/page-limits.htm)by different types of grants.
+- [NIH Page limits](https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/page-limits.htm) by different types of grants.
 
 
 Specific Aims Structure
