@@ -2,7 +2,7 @@
 
 ## First steps
 ### Requesting an account
-If you do not already have a Rocky Mountain Advanced Computing Consortium (RMAC) account, please follow the steps [here](https://curc.readthedocs.io/en/latest/access/rmacc.html).
+If you do not already have a Rocky Mountain Advanced Computing Consortium (RMACC) account, please follow the steps [here](https://curc.readthedocs.io/en/latest/access/rmacc.html).
 
 ### Open OnDemand
 Once you have an account, you can login to the RMACC OnDemand portal to access CURC resources! Follow the steps [here](https://curc.readthedocs.io/en/latest/access/rmacc.html#logging-in-to-open-ondemand) for more details.
