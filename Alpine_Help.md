@@ -64,5 +64,44 @@ Another way to use/access resources is to submit a job through Slurm. Slurm is a
     ```
     Look [here](https://curc.readthedocs.io/en/latest/running-jobs/job-resources.html#) for more details about different flags, partitions, and QoS.
 
+## Example of GNU parallel
+GNU parallel is very efficient if you want to run many jobs with just changing genes, seed (for permutation test?)... Please refere [here](https://github.com/kf-cuanschutz/CU-Anschutz-HPC-documentation/blob/main/Office-hours-presentation-files/GNU_parallel_presentation.pdf) 
+
+    ```
+    #!/bin/bash
+    #SBATCH --nodes=3 # We request directly the corresponding amount of nodes
+    #SBATCH --ntasks-per-node=4
+    #SBATCH --cpus-per-task=14
+    #SBATCH --time=5:00:00
+    ##SBATCH --qos=normal # if walltime < 24:00:00 then --qos=normal
+    #SBATCH --partition=amilan
+    #SBATCH --output=job.log
+    #SBATCH --error=job.log
+    ##SBATCH --mail-type=ALL
+    ##SBATCH --mail-user=your.email@example.com
+    
+    module load gnu_parallel
+    
+    # Define celltype
+    export celltype=T
+    #export celltype=B
+    #export celltype=M
+    #export celltype=NK
+    
+    # Outputting list of nodes into a textfile
+    scontrol show hostname > $SLURM_SUBMIT_DIR/nodelist.txt
+    
+    # Initiating GNU parallel and its variables
+    export data_path=/path/to/data/
+    my_srun="srun --export=all --exclusive -n1 --cpus-per-task=$SLURM_CPUS_PER_TASK --cpu-bind=cores"
+    # --joblog allow to track the gnu parallel signal worked across all workers
+    my_parallel="parallel --env PATH --env celltype --env data_path --env HOME --env SLURM_CPUS_PER_TASK --delay .2 -j $SLURM_NTASKS_PER_NODE --sshloginfile nodelist.txt --joblog job.log --wd $SLURM_SUBMIT_DIR --sshdelay 0.1"
+    # $my_parallel '$my_srun Rscript /path/to/sceQTL.R {1} ${celltype} ${SLURM_CPUS_PER_TASK}' :::: $data_path/genes_${celltype}.txt
+    $my_parallel '$my_srun Rscript /path/to/sceQTL.R {1} ${celltype} ${SLURM_CPUS_PER_TASK} > /path/to/log/sceQTL_T_{1}.out 2> /path/to/log/sceQTL_T_{1}.err' :::: /path/to/genes_${celltype}.txt
+
+
+    ```
+
+    
 ## More help
 More information and tutorials can be found on the [CU Anschutz HPC Documentation Github](https://github.com/kf-cuanschutz/CU-Anschutz-HPC-documentation) as well as the [CU Research Computing documentation page](https://curc.readthedocs.io/en/latest/index.html). 
