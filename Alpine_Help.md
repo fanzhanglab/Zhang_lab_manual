@@ -112,8 +112,12 @@ GNU parallel is very efficient if you want to run many jobs with just changing g
   - 10 TB/user (Alpine) or ~2 TB/user (Blanca)
   - Data purged after 90 days
 
-- `/pl/active/fanzhanglab`
-  - Fee-based compute-capable storage platform
+- `/pl/active/fanzhanglab`: Fee-based compute-capable storage platform
+  - `shared`
+    - `AMP_atrisk_RA`
+    - `complement_RA`
+  - `jinamo`
+
 
 More details: [file system](https://curc.readthedocs.io/en/latest/compute/filesystems.html)
 
