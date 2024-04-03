@@ -114,8 +114,12 @@ GNU parallel is very efficient if you want to run many jobs with just changing g
 
 - `/pl/active/fanzhanglab`: Fee-based compute-capable storage platform. Below is the current substructure:
   - `shared` (shared data folder, so please do not change it)
-    - `AMP_atrisk_RA`
-    - `complement_RA`
+    - `AMP_atrisk_RA` (defined based on the project name)
+      - `CITEseq` (split by data type)
+      - `cytof`
+      - `Genotype`
+      - `Genotype_v2`
+    - `complement_RA` (defined based on the project name)
   - `jinamo` (personal working repo)
 
 
