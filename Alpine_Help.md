@@ -104,9 +104,6 @@ GNU parallel is very efficient if you want to run many jobs with just changing g
 
 
 ## File system and storage space
-More details: ![file system](https://curc.readthedocs.io/en/latest/compute/filesystems.html)
-/scratch/alpine/fanzhanglab
-
 - `/projects/$USER`
   - 250 GB/user
   - Only use if you have a few small files to do I/O on.
@@ -117,6 +114,9 @@ More details: ![file system](https://curc.readthedocs.io/en/latest/compute/files
 
 - `/pl/active/fanzhanglab`
   - Fee-based compute-capable storage platform
+
+More details: [file system](https://curc.readthedocs.io/en/latest/compute/filesystems.html)
+
 
 Useful commands:
 - Disk usage may be checked using the `curc-quota` command. 
