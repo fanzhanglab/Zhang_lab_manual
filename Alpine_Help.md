@@ -102,6 +102,26 @@ GNU parallel is very efficient if you want to run many jobs with just changing g
 
     ```
 
+
+## File system and storage space
+More details: ![file system](https://curc.readthedocs.io/en/latest/compute/filesystems.html)
+/scratch/alpine/fanzhanglab
+
+- `/projects/$USER`
+  - 250 GB/user
+  - Only use if you have a few small files to do I/O on.
+  
+- `/scratch/alpine/$USER`
+  - 10 TB/user (Alpine) or ~2 TB/user (Blanca)
+  - Data purged after 90 days
+
+- `/pl/active/fanzhanglab`
+  - Fee-based compute-capable storage platform
+
+Useful commands:
+- Disk usage may be checked using the `curc-quota` command. 
+- The space occupied by a particular directory and its subdirectories can be obtained via the `du -h` command.
+    
     
 ## More help
 More information and tutorials can be found on the [CU Anschutz HPC Documentation Github](https://github.com/kf-cuanschutz/CU-Anschutz-HPC-documentation) as well as the [CU Research Computing documentation page](https://curc.readthedocs.io/en/latest/index.html). 
