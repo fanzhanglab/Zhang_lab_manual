@@ -19,7 +19,7 @@ In addition to working in the terminal, you also have the option to launch graph
 
 
 ## File system and storage organization for Zhang Lab:
-- `**/projects/$USER**`
+- **`/projects/$USER`**
   - 250 GB/user
   - Use if you have a few small files to do I/O on.
   - Your local "playground"! Suggested structure:
