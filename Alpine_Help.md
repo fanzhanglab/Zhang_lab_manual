@@ -137,6 +137,11 @@ GNU parallel is very efficient if you want to run many jobs with just changing g
       - `Genotype`
       - `Genotype_v2`
     - `amp_phase2_ra` 
+      - `fine_cluster_all_314011cells_82samples_2023-03-12.rds`
+      - `qc_mRNA_314011cells_log_normalized_matrix_2023-03-15.rds`
+      - `qc_protein_CLR_normalized_filtered_matrix_2023-03-12.rds`
+      - `myeloid_reference_2023-03-12.rds` (each cell type reference includes everything)
+      -  ...
     - `amp_phase2_sle`
     - `complement_RA` 
       - `bulk_rna_complement_log2tpm_counts-9-25-2023.rds`
