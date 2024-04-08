@@ -109,7 +109,7 @@ GNU parallel is very efficient if you want to run many jobs with just changing g
   - Use if you have a few small files to do I/O on.
   - Your local "playground"! Suggested structure:
     - `/projects/fanzhanglab\@xsede.org`
-      - `code`
+      - `results`
          - `2022-06-15_chronic_infectious_inflammatory_data_aggregation`
          - `2023-03-12_plot_each_protein_gene_umap`
          - ...
@@ -117,7 +117,8 @@ GNU parallel is very efficient if you want to run many jobs with just changing g
            - `anaconda`
              - `envs`
                - `mycustomenv`
-               
+        - `data`
+        - `docs`
                
            
 - `/scratch/alpine/$USER`
