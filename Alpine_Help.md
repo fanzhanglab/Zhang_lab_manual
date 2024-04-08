@@ -109,15 +109,18 @@ GNU parallel is very efficient if you want to run many jobs with just changing g
   - Use if you have a few small files to do I/O on.
   - Your local "playground"! Suggested structure:
     - `/projects/fanzhanglab\@xsede.org`
-      - `results`
+      - `results` (your daily work)
          - `2022-06-15_chronic_infectious_inflammatory_data_aggregation`
          - `2023-03-12_plot_each_protein_gene_umap`
-         - ...
+         -  ...
        - `software`
            - `anaconda`
              - `envs`
                - `mycustomenv`
         - `data`
+          - `processed`
+          - `intermediate`
+          - `archived`
         - `docs`
                
            
@@ -127,7 +130,7 @@ GNU parallel is very efficient if you want to run many jobs with just changing g
 
 - `/pl/active/fanzhanglab`: Fee-based compute-capable storage platform. Below is the current folder substructure:
 
-  - `shared` (shared data folder, so please do not change it)
+  - `shared` (shared data folder. "Freezer": so please do not change it)
     - `AMP_atrisk_RA` (defined based on the project name)
       - `CITEseq` (split by data type)
       - `cytof`
@@ -136,7 +139,15 @@ GNU parallel is very efficient if you want to run many jobs with just changing g
     - `amp_phase2_ra` 
     - `amp_phase2_sle`
     - `complement_RA` 
-    - ... 
+      - `bulk_rna_complement_log2tpm_counts-9-25-2023.rds`
+      - `Donlin-IM-14854_2023_09_05`
+        - `Donlin-IM-14854_2023_09_05.md5sum.source`
+        - `IM047_1`
+          - `HD16_S1_L004_R1_001.fastq.gz`
+          - `HD16_S1_L004_R2_001.fastq.gz`
+        - `IM047_10`
+          - ...
+          - ...
   - `jinamo` (personal working repo)
 
 
