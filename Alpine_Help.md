@@ -108,16 +108,24 @@ GNU parallel is very efficient if you want to run many jobs with just changing g
   - 250 GB/user
   - Use if you have a few small files to do I/O on.
   - Your local "playground"
-  
+  - Suggested structure:
+    - `/projects/fanzhanglab\@xsede.org`
+      - `code`
+         - `2022-06-15_chronic_infectious_inflammatory_data_aggregation`
+         - `2023-03-12_plot_each_protein_gene_umap`
+         - ...
+       - `software`
+           - `anaconda`
+             - `envs`
+               - `mycustomenv`
+               
+               
+           
 - `/scratch/alpine/$USER`
   - 10 TB/user (Alpine) 
   - Data purged after 90 days
 
 - `/pl/active/fanzhanglab`: Fee-based compute-capable storage platform. Below is the current substructure:
-
-
-Current directory structure:
-
 
   - `shared` (shared data folder, so please do not change it)
     - `AMP_atrisk_RA` (defined based on the project name)
