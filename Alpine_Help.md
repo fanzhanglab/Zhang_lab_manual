@@ -39,11 +39,11 @@ In addition to working in the terminal, you also have the option to launch graph
         - `docs`
                
            
-- `/scratch/alpine/$USER`
+- **`/scratch/alpine/$USER`**
   - 10 TB/user (Alpine) 
   - Data purged after 90 days
 
-- `/pl/active/fanzhanglab`: Fee-based compute-capable storage platform. Below is the current folder substructure:
+- **`/pl/active/fanzhanglab`**: Fee-based compute-capable storage platform. Below is the current folder substructure:
 
   - `shared` (shared data folder. "Freezer": so please do not change it)
     - `AMP_atrisk_RA` (defined based on the project name; data for Inamo, et al, bioRxiv, 2023)
