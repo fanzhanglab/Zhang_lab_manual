@@ -106,20 +106,25 @@ GNU parallel is very efficient if you want to run many jobs with just changing g
 ## File system and storage space
 - `/projects/$USER`
   - 250 GB/user
-  - Only use if you have a few small files to do I/O on.
+  - Use if you have a few small files to do I/O on.
+  - Your local "playground"
   
 - `/scratch/alpine/$USER`
-  - 10 TB/user (Alpine) or ~2 TB/user (Blanca)
+  - 10 TB/user (Alpine) 
   - Data purged after 90 days
 
 - `/pl/active/fanzhanglab`: Fee-based compute-capable storage platform. Below is the current substructure:
+Directory:
   - `shared` (shared data folder, so please do not change it)
     - `AMP_atrisk_RA` (defined based on the project name)
       - `CITEseq` (split by data type)
       - `cytof`
       - `Genotype`
       - `Genotype_v2`
-    - `complement_RA` (defined based on the project name)
+    - `amp_phase2_ra` 
+    - `amp_phase2_sle`
+    - `complement_RA` 
+    - ... 
   - `jinamo` (personal working repo)
 
 
