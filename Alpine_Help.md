@@ -128,6 +128,7 @@ Another way to use/access resources is to submit a job through Slurm. Slurm is a
 
 ## Example of GNU parallel
 GNU parallel is very efficient if you want to run many jobs with just changing genes, seed (for permutation test?)... Please refere [here](https://github.com/kf-cuanschutz/CU-Anschutz-HPC-documentation/blob/main/Office-hours-presentation-files/GNU_parallel_presentation.pdf) 
+
     ```
     #!/bin/bash
     #SBATCH --nodes=3 # We request directly the corresponding amount of nodes
@@ -159,6 +160,8 @@ GNU parallel is very efficient if you want to run many jobs with just changing g
     my_parallel="parallel --env PATH --env celltype --env data_path --env HOME --env SLURM_CPUS_PER_TASK --delay .2 -j $SLURM_NTASKS_PER_NODE --sshloginfile nodelist.txt --joblog job.log --wd $SLURM_SUBMIT_DIR --sshdelay 0.1"
     # $my_parallel '$my_srun Rscript /path/to/sceQTL.R {1} ${celltype} ${SLURM_CPUS_PER_TASK}' :::: $data_path/genes_${celltype}.txt
     $my_parallel '$my_srun Rscript /path/to/sceQTL.R {1} ${celltype} ${SLURM_CPUS_PER_TASK} > /path/to/log/sceQTL_T_{1}.out 2> /path/to/log/sceQTL_T_{1}.err' :::: /path/to/genes_${celltype}.txt
+
+
     ```
 
 
