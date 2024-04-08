@@ -17,6 +17,68 @@ Once logged into OnDemand, you can access login nodes by selecting >_Alpine Shel
 ## Interacive Applications
 In addition to working in the terminal, you also have the option to launch graphical user interface (GUI) applications using CURC resources. The interactive apps dropdown menus includes applications such as Jupyter Notebook, RStudio, and VS Code. These can be launched using the preset configurations given, or via a custom configuration to better suit your needs. See the interactive applications [CURC guide](https://curc.readthedocs.io/en/latest/gateways/OnDemand.html#jupyter-session) for details.
 
+
+## File system and storage organization for Zhang Lab:
+- `/projects/$USER`
+  - 250 GB/user
+  - Use if you have a few small files to do I/O on.
+  - Your local "playground"! Suggested structure:
+    - `/projects/fanzhanglab\@xsede.org`
+      - `results` (your daily work)
+         - `2022-06-15_chronic_infectious_inflammatory_data_aggregation`
+         - `2023-03-12_plot_each_protein_gene_umap`
+         -  ...
+       - `software`
+           - `anaconda`
+             - `envs`
+               - `mycustomenv`
+        - `data`
+          - `processed`
+          - `intermediate`
+          - `archived`
+        - `docs`
+               
+           
+- `/scratch/alpine/$USER`
+  - 10 TB/user (Alpine) 
+  - Data purged after 90 days
+
+- `/pl/active/fanzhanglab`: Fee-based compute-capable storage platform. Below is the current folder substructure:
+
+  - `shared` (shared data folder. "Freezer": so please do not change it)
+    - `AMP_atrisk_RA` (defined based on the project name; data for Inamo, et al, bioRxiv, 2023)
+      - `CITEseq` (split by data type)
+      - `cytof`
+      - `Genotype`
+      - `Genotype_v2`
+    - `amp_phase2_ra` (CITE-seq data for Zhang, et al, Nature, 2023)
+      - `fine_cluster_all_314011cells_82samples_2023-03-12.rds`
+      - `qc_mRNA_314011cells_log_normalized_matrix_2023-03-15.rds`
+      - `qc_protein_CLR_normalized_filtered_matrix_2023-03-12.rds`
+      - `myeloid_reference_2023-03-12.rds` (each cell type reference includes everything)
+      -  ...
+    - `amp_phase2_sle`
+    - `complement_RA` 
+      - `bulk_rna_complement_log2tpm_counts-9-25-2023.rds`
+      - `Donlin-IM-14854_2023_09_05`
+        - `Donlin-IM-14854_2023_09_05.md5sum.source`
+        - `IM047_1`
+          - `HD16_S1_L004_R1_001.fastq.gz`
+          - `HD16_S1_L004_R2_001.fastq.gz`
+        - `IM047_10`
+          - ...
+          - ...
+  - `jinamo` (personal working repo)
+
+
+More details: [file system](https://curc.readthedocs.io/en/latest/compute/filesystems.html)
+
+
+Useful commands:
+- Disk usage may be checked using the `curc-quota` command. 
+- The space occupied by a particular directory and its subdirectories can be obtained via the `du -h` command.
+    
+    
 ## Submitting jobs with Slurm
 Another way to use/access resources is to submit a job through Slurm. Slurm is a work load manager and job scheduler that allows cluster users to run code on the remote server without needing to interact with or "babysit" the terminal. Slurm will allocate resources, time, and execute your code for you. This is typically done by providing a series of Linux commands and resource requests in a job script. 
 - Start by accessing an Alpine login node and requesting a compute node with the `acompile` command.
@@ -103,66 +165,5 @@ GNU parallel is very efficient if you want to run many jobs with just changing g
     ```
 
 
-## File system and storage space
-- `/projects/$USER`
-  - 250 GB/user
-  - Use if you have a few small files to do I/O on.
-  - Your local "playground"! Suggested structure:
-    - `/projects/fanzhanglab\@xsede.org`
-      - `results` (your daily work)
-         - `2022-06-15_chronic_infectious_inflammatory_data_aggregation`
-         - `2023-03-12_plot_each_protein_gene_umap`
-         -  ...
-       - `software`
-           - `anaconda`
-             - `envs`
-               - `mycustomenv`
-        - `data`
-          - `processed`
-          - `intermediate`
-          - `archived`
-        - `docs`
-               
-           
-- `/scratch/alpine/$USER`
-  - 10 TB/user (Alpine) 
-  - Data purged after 90 days
-
-- `/pl/active/fanzhanglab`: Fee-based compute-capable storage platform. Below is the current folder substructure:
-
-  - `shared` (shared data folder. "Freezer": so please do not change it)
-    - `AMP_atrisk_RA` (defined based on the project name)
-      - `CITEseq` (split by data type)
-      - `cytof`
-      - `Genotype`
-      - `Genotype_v2`
-    - `amp_phase2_ra` 
-      - `fine_cluster_all_314011cells_82samples_2023-03-12.rds`
-      - `qc_mRNA_314011cells_log_normalized_matrix_2023-03-15.rds`
-      - `qc_protein_CLR_normalized_filtered_matrix_2023-03-12.rds`
-      - `myeloid_reference_2023-03-12.rds` (each cell type reference includes everything)
-      -  ...
-    - `amp_phase2_sle`
-    - `complement_RA` 
-      - `bulk_rna_complement_log2tpm_counts-9-25-2023.rds`
-      - `Donlin-IM-14854_2023_09_05`
-        - `Donlin-IM-14854_2023_09_05.md5sum.source`
-        - `IM047_1`
-          - `HD16_S1_L004_R1_001.fastq.gz`
-          - `HD16_S1_L004_R2_001.fastq.gz`
-        - `IM047_10`
-          - ...
-          - ...
-  - `jinamo` (personal working repo)
-
-
-More details: [file system](https://curc.readthedocs.io/en/latest/compute/filesystems.html)
-
-
-Useful commands:
-- Disk usage may be checked using the `curc-quota` command. 
-- The space occupied by a particular directory and its subdirectories can be obtained via the `du -h` command.
-    
-    
 ## More help
 More information and tutorials can be found on the [CU Anschutz HPC Documentation Github](https://github.com/kf-cuanschutz/CU-Anschutz-HPC-documentation) as well as the [CU Research Computing documentation page](https://curc.readthedocs.io/en/latest/index.html). 
