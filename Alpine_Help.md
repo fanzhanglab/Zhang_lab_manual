@@ -113,8 +113,12 @@ GNU parallel is very efficient if you want to run many jobs with just changing g
   - 10 TB/user (Alpine) 
   - Data purged after 90 days
 
-- `/pl/active/fanzhanglab`: Fee-based compute-capable storage platform. Below is the current substructure:\n
-Current directory structure:\n
+- `/pl/active/fanzhanglab`: Fee-based compute-capable storage platform. Below is the current substructure:
+
+
+Current directory structure:
+
+
   - `shared` (shared data folder, so please do not change it)
     - `AMP_atrisk_RA` (defined based on the project name)
       - `CITEseq` (split by data type)
