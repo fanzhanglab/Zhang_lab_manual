@@ -23,7 +23,7 @@ Here, we list great papers and classical books that cover the key research topic
 - [Current best practices in single-cell RNA-seq analysis: a tutorial](https://www.embopress.org/doi/full/10.15252/msb.20188746), Molecular Systems Biology
 
 ### :star: Benchmarking papers on method comparison in an unbiased manner
-- [Principles and challenges of modeling temporal and spatial omics data](https://www.nature.com/articles/s41592-023-01992-y)
+- [Principles and challenges of modeling temporal and spatial omics data](https://www.nature.com/articles/s41592-023-01992-y), Nature Methods
 - [Benchmarking atlas-level data integration in single-cell genomics](https://www.nature.com/articles/s41592-021-01336-8), Nature Methods
 - [A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9), Genome Biology
 - [Advances in spatial transcriptomic data analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8494229/), Genome Research
