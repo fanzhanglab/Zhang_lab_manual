@@ -2,15 +2,17 @@
 
 ## First steps
 ### Requesting an account
-If you do not already have a Rocky Mountain Advanced Computing Consortium (RMACC) account, please follow the steps [here](https://curc.readthedocs.io/en/latest/access/rmacc.html).
+If you do not already have a Rocky Mountain Advanced Computing Consortium (RMACC) account, please follow the steps [here](https://curc.readthedocs.io/en/latest/getting_started/logging-in.html).
 
 ### Open OnDemand
-Once you have an account, you can login to the RMACC OnDemand portal to access CURC resources! Follow the steps [here](https://curc.readthedocs.io/en/latest/access/rmacc.html#logging-in-to-open-ondemand) for more details.
+Once you have an account, you can login to the RMACC OnDemand portal to access CURC resources! Follow the steps [here](https://curc.readthedocs.io/en/latest/open_ondemand/index.html) for more details.
 
 ## Accessing the terminal
-Once logged into OnDemand, you can access login nodes by selecting >_Alpine Shell from the CLusters dropdown menu.
-![Screenshot of OnDemand CLusters drop down menu, courtesy of CURC user guide.](https://curc.readthedocs.io/en/latest/_images/shell_access.png)
+Once logged into OnDemand by visiting https://ondemand-rmacc.rc.colorado.edu, as seen below:
+![](ondemand.png)
 
+Then, you can access login nodes by selecting >_Alpine Shell from the Clusters dropdown menu.
+ 
 ## Setting up your virtual environment
 - Before you get started with anything else, you likely want to set up a conda virtual environment. [This documentation page](https://curc.readthedocs.io/en/latest/software/python.html) details how to set up Python and R with Anaconda on the cluster. Your conda environment can be used with interactive apps on OnDemand, or when submitting jobs with Slurm (see below).
 
