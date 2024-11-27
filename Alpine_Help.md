@@ -9,7 +9,7 @@ Once you have an account, you can login to the RMACC OnDemand portal to access C
 
 ## Accessing the terminal
 Once logged into OnDemand by visiting https://ondemand-rmacc.rc.colorado.edu, as seen below:
-![](ondemand.png)
+![](./figures/ondemand.png)
 
 Then, you can access login nodes by selecting >_Alpine Shell from the Clusters dropdown menu.
  
