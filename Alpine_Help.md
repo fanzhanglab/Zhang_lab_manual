@@ -17,7 +17,8 @@ Then, you can access login nodes by selecting >_Alpine Shell from the Clusters d
 - Before you get started with anything else, you likely want to set up a conda virtual environment. [This documentation page](https://curc.readthedocs.io/en/latest/software/python.html) details how to set up Python and R with Anaconda on the cluster. Your conda environment can be used with interactive apps on OnDemand, or when submitting jobs with Slurm (see below).
 
 ## Interacive Applications
-In addition to working in the terminal, you also have the option to launch graphical user interface (GUI) applications using CURC resources. The interactive apps dropdown menus includes applications such as Jupyter Notebook, RStudio, and VS Code. These can be launched using the preset configurations given, or via a custom configuration to better suit your needs. See the interactive applications [CURC guide](https://curc.readthedocs.io/en/latest/gateways/OnDemand.html#jupyter-session) for details.
+In addition to working in the terminal, you also have the option to launch graphical user interface (GUI) applications using CURC resources. The interactive apps dropdown menus includes applications such as Jupyter Notebook, RStudio, and VS Code. These can be launched using the preset configurations given, or via a custom configuration to better suit your needs. See the interactive applications [CURC guide](https://curc.readthedocs.io/en/latest/open_ondemand/index.html) for details.
+<img src="https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/jupyter.png" width="600" align="center">
 
 
 ## File system and storage organization for Zhang Lab:
