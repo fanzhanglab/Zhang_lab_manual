@@ -56,6 +56,10 @@ Here, we list great papers and classical books that cover the key research topic
 - [Defining inflammatory cell states in rheumatoid arthritis joint synovial tissues by integrating single-cell transcriptomics and mass cytometry](https://www.nature.com/articles/s41590-019-0378-1), Nature Immunology
 - [IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 lungs and inflammatory diseases with tissue inflammation](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00881-3), Genome Medicine
 
+### :star: Established and published analytical pipeline
+- [scRepertoire](https://www.bioconductor.org/packages/devel/bioc/vignettes/scRepertoire/inst/doc/vignette.html): offers standard code for 10X single-cell TCR and BCR data.
+- [Immcantation](https://immcantation.readthedocs.io/en/stable/): a start-to-finish ecosystem for adaptive immune receptor repertoire (AIRR) data like TCR and BCR.
+
 
 ### :star: R playground 
 - [Applied Statistics for Experimental Biology](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/): offers many useful examples with R code, and even a comprehensive introduction of useful R packages, R Markdown, and generalized linear models.
