@@ -3,7 +3,7 @@
 
 ### Author: Fan Zhang
 
-Writing grants is a critical step during the journey of scientific research. Specific Aims page is the most important page for the whole grant proposal. Below we would like to highlight several key steps that we learned from our own experience and others (e.g., Dr. David Veenstra's talk), focusing on drafting good Specific Aims page.
+Writing grants is a critical step during the journey of scientific research. Specific Aims page is the most important page for the whole grant proposal. Below we would like to highlight several key steps that we learned from our own experience and others (e.g., Dr. David Veenstra, Dr. Jennifer Kemp), focusing on drafting good Specific Aims page.
 
 Understand your reviewers
 --------
@@ -20,8 +20,31 @@ Tips
 
     - Another example, something like "We will develop a non-linear computational approach using deep learning models by extending our previously established linear models" would be better than "We will develop a complex deep learning approach".
 
+- **Preliminary data**. Where to put preliminary data?
+
+    - Before the aims: tells a story
+    - Within each aim: more precise but can seem diffuse 
+    - Some of each: best of both worlds!
+ 
+- **Writing Style**. 
+    - Aim to give each paragraph a single main message
+    - First and last sentences are important positions in a paragraph
+    - Each paragraph should connect logically with the previous and next paragraphs
+    - Aim for short and concise paragraphs (~150-200 words)
+    - Subheadings help with logical flow
+    - Good white space
+    - Figures appear near corresponding text
+
+
+
 - **Start early**. Don't be hesitate. Then share the draft with your mentors and collaborators
-- **Revise, revise, revise**.
+
+- **A Specific Aims page is NOT**: 
+
+    - Lots of background info
+    - experimental detail, 
+    - Containing concepts not covered in the proposal
+
 
 - [NIH Page limits](https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/page-limits.htm) by different types of grants.
 
@@ -62,6 +85,35 @@ Specific Aims Structure
     - Final paragraph sells it. Hilighlight implications, significance, and novelty. Don't mention the aim and methods again. 
 
 
-## Overall framework
-This is a great summary of the NIH grant template ![template](./figures/grant_template.png) from Dr. Tim Reddy. Thanks for sharing.
+## A good Specific Aims page framework
+This is a great example of the template ![template](./figures/aims_template.png) from Dr. Jennifer Kemp. Thanks for sharing.
 
+
+## Approach
+    - Suggested subsections for each Aim:
+    - Rationale (including Hypothesis/Subhypothesis)
+    - Experimental Plan (use subaims if needed)
+    - Statistical Analysis, Power Calculations
+    - Rigor and Reproducibility (can also be upfront)
+    - Expected Results and Interpretation
+    - Potential Pitfalls and Alternative Approaches: Backup plan-What if things don’t go as planned? Not just experimental, but also if hypothesis is wrong, how are you going figure out the problem?
+    
+## Elements of Scientific Rigor
+    - Appropriate controls
+    - Replication of experiments
+    - Plans to reduce bias
+    - Randomization
+    - Blinding
+    - Inclusion/exclusion criteria
+    - Sample size/study power analyses
+    - Statistical methods
+    - Missing data (plan to address)
+    - Others as appropriate
+
+## New NIH Review Criteria (simlified)
+
+**Factor 1: Importance of the Research**
+**Factor 2: Rigor and Feasibility**
+**Factor 3: Expertise and Resources**
+
+NIH simplified review framework: scoring guidance ![template](./figures/review.png) 
