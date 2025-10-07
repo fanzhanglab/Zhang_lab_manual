@@ -86,34 +86,54 @@ Specific Aims Structure
 
 
 ## A good Specific Aims page framework
-This is a great example of the template ![template](./figures/aims_template.png) from Dr. Jennifer Kemp. Thanks for sharing.
+![template](./figures/aims_template.png) 
+Thanks Dr. Jennifer Kemp for sharing this framework/template.
 
 
 ## Approach
-    - Suggested subsections for each Aim:
+
+    - Suggested subsections for each Aim
+    
     - Rationale (including Hypothesis/Subhypothesis)
+    
     - Experimental Plan (use subaims if needed)
+    
     - Statistical Analysis, Power Calculations
+    
     - Rigor and Reproducibility (can also be upfront)
+    
     - Expected Results and Interpretation
+    
     - Potential Pitfalls and Alternative Approaches: Backup plan-What if things don’t go as planned? Not just experimental, but also if hypothesis is wrong, how are you going figure out the problem?
     
 ## Elements of Scientific Rigor
+
     - Appropriate controls
+    
     - Replication of experiments
+    
     - Plans to reduce bias
+    
     - Randomization
+    
     - Blinding
+    
     - Inclusion/exclusion criteria
+    
     - Sample size/study power analyses
+    
     - Statistical methods
+    
     - Missing data (plan to address)
+    
     - Others as appropriate
 
 ## New NIH Review Criteria (simlified)
 
 **Factor 1: Importance of the Research**
+
 **Factor 2: Rigor and Feasibility**
+
 **Factor 3: Expertise and Resources**
 
 NIH simplified review framework: scoring guidance ![template](./figures/review.png) 
