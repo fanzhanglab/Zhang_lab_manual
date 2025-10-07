@@ -1,5 +1,5 @@
 
-# Tutorials and experience of writing grants
+# Tutorials of writing successful grants
 
 ### Author: Fan Zhang
 
@@ -42,7 +42,7 @@ Tips
 - **A Specific Aims page is NOT**: 
 
     - Lots of background info
-    - experimental detail, 
+    - experimental detail
     - Containing concepts not covered in the proposal
 
 
