@@ -96,44 +96,45 @@ Approach
 
 For the Approach section, please follow the format:
 
-    - Suggested subsections for each Aim
+- Suggested subsections for each Aim
     
-    - Rationale (including Hypothesis/Subhypothesis)
+- Rationale (including Hypothesis/Subhypothesis)
+
+- Experimental Plan (use subaims if needed)
     
-    - Experimental Plan (use subaims if needed)
+- Statistical Analysis, Power Calculations
     
-    - Statistical Analysis, Power Calculations
+- Rigor and Reproducibility (can also be upfront)
     
-    - Rigor and Reproducibility (can also be upfront)
+- Expected Results and Interpretation
     
-    - Expected Results and Interpretation
-    
-    - Potential Pitfalls and Alternative Approaches: Backup plan-What if things don’t go as planned? Not just experimental, but also if hypothesis is wrong, how are you going figure out the problem?
+- Potential Pitfalls and Alternative Approaches: Backup plan-What if things don’t go as planned? Not just experimental, but also if hypothesis is wrong, how are you going figure out the problem?
     
 Elements of Scientific Rigor
 --------
 
 For the Scientific Rigor, please consider the following aspects:
 
-    - Appropriate controls
+- Appropriate controls
     
-    - Replication of experiments
+- Replication of experiments
     
-    - Plans to reduce bias
+- Plans to reduce bias
     
-    - Randomization
+- Randomization
     
-    - Blinding
+- Blinding
     
-    - Inclusion/exclusion criteria
+- Inclusion/exclusion criteria
     
-    - Sample size/study power analyses
+- Sample size/study power analyses
     
-    - Statistical methods
+- Statistical methods
+
+- Missing data (plan to address)
     
-    - Missing data (plan to address)
-    
-    - Others as appropriate
+- Others as appropriate
+
 
 New NIH Review Criteria (simlified)
 --------
