@@ -92,6 +92,8 @@ Thanks Dr. Jennifer Kemp for sharing this framework/template.
 
 ## Approach
 
+For the Approach section, please follow the format:
+
     - Suggested subsections for each Aim
     
     - Rationale (including Hypothesis/Subhypothesis)
@@ -106,7 +108,9 @@ Thanks Dr. Jennifer Kemp for sharing this framework/template.
     
     - Potential Pitfalls and Alternative Approaches: Backup plan-What if things don’t go as planned? Not just experimental, but also if hypothesis is wrong, how are you going figure out the problem?
     
-## Elements of Scientific Rigor
+## Elements of Scientific Rigor
+
+For the Scientific Rigor, please consider the following aspects:
 
     - Appropriate controls
     
