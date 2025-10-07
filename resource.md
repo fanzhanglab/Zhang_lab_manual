@@ -37,7 +37,8 @@ Here, we list great papers and classical books that cover the key research topic
 - [Comparison of methods to detect differentially expressed genes between single-cell populations](https://academic.oup.com/bib/article/18/5/735/2562772?login=false), Briefings in Bioinformatics
 
 
-### :star: Computational method development papers for single-cell data
+### :star: Computational method development papers for single-cell multi-modal and spatial transcriptomics
+- [CellPhenoX: An Explainable Machine Learning Method for Identifying Cell Phenotypes To Predict Clinical Outcomes from Single-Cell Multi-Omics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202503289), Advanced Science
 - [Uncover spatially informed variations for single-cell spatial transcriptomics with STew](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae064/7684964), Bioinformatics Advances
 - [Stabilized mosaic single-cell data integration using unshared features](https://www.nature.com/articles/s41587-023-01766-z), Nature Biotechnology
 - [Co-varying neighborhood analysis identifies cell populations associated with phenotypes of interest from single-cell transcriptomics](https://www.nature.com/articles/s41587-021-01066-4), Nature Biotechnology
@@ -46,11 +47,10 @@ Here, we list great papers and classical books that cover the key research topic
 
 
 ### :star: Immune-mediated disease insights through single-cell omics 
+- [Deep immunophenotyping reveals circulating activated lymphocytes in individuals at risk for rheumatoid arthritis](https://www.jci.org/articles/view/185217), JCI
 - [Deconstruction of rheumatoid arthritis synovium defines inflammatory subtypes](https://www.nature.com/articles/s41586-023-06708-y), Nature
 - [Distinct mucosal endotypes as initiators and drivers of rheumatoid arthritis](https://www.nature.com/articles/s41584-024-01154-0#:~:text=Mucosal%20endotypes%20encompass%20deleterious%20interactions,to%20present%20as%20clinical%20RA.), Nature Review Rheumatology
-- [Immune mechanisms in fibrotic interstitial lung disease](https://www.cell.com/cell/abstract/S0092-8674(24)00524-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424005245%3Fshowall%3Dtrue), Cell
 - [Insights into rheumatic diseases from next-generation sequencing](https://www.nature.com/articles/s41584-019-0217-7), Nature Reviews Rheumatology
-- [Single-cell technologies — studying rheumatic diseases one cell at a time](https://www.nature.com/articles/s41584-019-0220-z), Nature Reviews Rheumatology
 - [Not a losing battle: Single cell tools provide new insights into chronic autoimmune diseases](https://www.10xgenomics.com/blog/not-a-losing-battle-single-cell-tools-provide-new-insights-into-chronic-autoimmune-diseases), 10X Genomics Blog
 - [Single-cell eQTL mapping identifies cell type-specific genetic control of autoimmune disease](https://www.science.org/doi/10.1126/science.abf3041), Science
 - [Defining inflammatory cell states in rheumatoid arthritis joint synovial tissues by integrating single-cell transcriptomics and mass cytometry](https://www.nature.com/articles/s41590-019-0378-1), Nature Immunology

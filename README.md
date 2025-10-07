@@ -14,10 +14,9 @@ We recommend every lab member from the [Zhang Lab](https://fanzhanglab.org/) to 
 
 :star: [**Handboook for reproducible computational research**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/reproducible_research.md): This handbook provides guidance of conducting reproducible computational research.
 
-:star: [**Learning rescources**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/resource.md): 
-- Have a read of [high-impact papers](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/resource.md) we organized covering *single-cell omics*, *statistical modeling*, *machine learning*, and *computational genomics* with code examples.
-- Welcome to learn the tips of [writing grants](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/grant_writing.md).
- 
+:star: [**Learning rescources**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/resource.md): Have a read of [important papers](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/resource.md) we organized covering *single-cell omics*, *statistical modeling*, *machine learning*, and *computational genomics* with code examples.
+
+:star: [**Grant writing**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/grant_writing.md): Welcome to learn the tips of writing grants, especial Specific Aims page.
  
 :star: [**Lab principles**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/lab_principle.md): We believe in collaborations, encourage sharing, promote diversity, and maintain scientific integrity to pursue high-quality science.
 
@@ -26,5 +25,5 @@ We recommend every lab member from the [Zhang Lab](https://fanzhanglab.org/) to 
 :star: [**Expectations and achievements**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/for_trainee.md): To achieve your research goals, we highly encourage all lab members to submit abstracts, publish papers, and/or present our work in public.
 
 <br />
-Last Update: Feb 14, 2024
+Last Update: September, 2025
 <br />
