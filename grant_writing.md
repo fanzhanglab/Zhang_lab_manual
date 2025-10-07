@@ -87,7 +87,8 @@ Specific Aims Structure
 
 A good Specific Aims page framework
 --------
-Check this template ![template](./figures/aims_template.png) 
+
+<img src="https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/aims_template.png" width="440" align="right">
 Thanks Dr. Jennifer Kemp for sharing this framework/template.
 
 
