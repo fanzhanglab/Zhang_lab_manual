@@ -91,6 +91,7 @@ Thanks Dr. Jennifer Kemp for sharing this framework/template.
 
 
 ## Approach
+--------
 
 For the Approach section, please follow the format:
 
@@ -109,6 +110,7 @@ For the Approach section, please follow the format:
     - Potential Pitfalls and Alternative Approaches: Backup plan-What if things don’t go as planned? Not just experimental, but also if hypothesis is wrong, how are you going figure out the problem?
     
 ## Elements of Scientific Rigor
+--------
 
 For the Scientific Rigor, please consider the following aspects:
 
@@ -133,6 +135,7 @@ For the Scientific Rigor, please consider the following aspects:
     - Others as appropriate
 
 ## New NIH Review Criteria (simlified)
+--------
 
 **Factor 1: Importance of the Research**
 
