@@ -43,9 +43,8 @@ Publishing an abstract
 -------
 #### Submitting an abstract
 
-    - If you plan to submit an abstract to any conference, please send me a draft at least two weeks before the deadline. 
-    - If your abstract is selected for a talk, please prepare your slides and complete at least one rehearsal in the lab 
-    to improve flow, timing, Q&A skills, and confidence.
+    - If you plan to submit an abstract to a conference, send me a draft at least two weeks before the deadline. 
+    - If selected for a talk, prepare your slides and complete at least one rehearsal in the lab.
 
 
 #### Presenting your research, general tips for slides: 
@@ -55,6 +54,7 @@ Publishing an abstract
     - Use large, easy-to-read fonts.
     - Favor plots and figures over text whenever possible.
     - Engage your audience by posing motivating questions during the presentation.
+    - Improve flow, timing, Q&A skills, and confidence
 
 
 ### We encourage to consider the conferences below based on our lab interests:
