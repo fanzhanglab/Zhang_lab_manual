@@ -41,9 +41,20 @@ Please feel free to communicate with me on your thoughts on your current project
 
 Publishing an abstract
 -------
-If you'd like to submit an abstract, please send a draft of the content to Prof. Zhang two weeks before the submission deadline.
-We encourage to consider the conferences below based on our lab interests:
+If you'd like to submit an abstract, please send a draft of the content to me two weeks before the submission deadline.
 
+Once your work has been selected for a talk for a research conference, you need to prepare your presentation and do rehersals once in the lab. This can help you enhance your logic, manage presenting timing, practice question handling skills, and build your confidence. 
+
+
+***Presenting your research - general tips for slides: ***
+-- Each slide should convey one clear message.
+-- The slide title should state the key message.
+-- Use large, easy-to-read fonts.
+-- Favor plots and figures over text whenever possible.
+-- Engage your audience by posing motivating questions during the presentation.
+
+
+We encourage to consider the conferences below based on our lab interests:
 
 ### Computational biology and bioinformatics conferences: 
 
@@ -87,19 +98,10 @@ We encourage to consider the conferences below based on our lab interests:
   - *Not out yet: usually deadline for abstract submission is June*
 
 
-Prof. Zhang is happy to help revise your manuscript and abstract drafts and provide detailed guidance on presentations.
+I am happy to help revise your manuscript and abstract drafts and provide detailed guidance on presentations.
 
 
-Presenting your research
--------
-Once your work has been selected for a talk for a research conference, you need to prepare your presentation and do rehersals once in the lab. This can help you enhance your logic, manage presenting timing, practice question handling skills, and build your confidence. 
 
-General tips: 
-- Each slide should convey one clear message.
-- The slide title should state the key message.
-- Use large, easy-to-read fonts.
-- Favor plots and figures over text whenever possible.
-- Engage your audience by posing motivating questions during the presentation.
 
 
 
