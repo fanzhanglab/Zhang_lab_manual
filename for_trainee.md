@@ -47,11 +47,12 @@ Once your work has been selected for a talk for a research conference, you need 
 
 
 **Presenting your research - general tips for slides: **
--- Each slide should convey one clear message.
--- The slide title should state the key message.
--- Use large, easy-to-read fonts.
--- Favor plots and figures over text whenever possible.
--- Engage your audience by posing motivating questions during the presentation.
+
+    - Each slide should convey one clear message.
+    - The slide title should state the key message.
+    - Use large, easy-to-read fonts.
+    - Favor plots and figures over text whenever possible.
+    - Engage your audience by posing motivating questions during the presentation.
 
 
 We encourage to consider the conferences below based on our lab interests:
