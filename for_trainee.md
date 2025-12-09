@@ -41,9 +41,11 @@ Please feel free to communicate with me on your thoughts on your current project
 
 Publishing an abstract
 -------
-If you'd like to submit an abstract, please send a draft of the content to me two weeks before the submission deadline.
+#### Submitting an abstract
 
-Once your work has been selected for a talk for a research conference, you need to prepare your presentation and do rehersals once in the lab. This can help you enhance your logic, manage presenting timing, practice question handling skills, and build your confidence. 
+
+    - If you'd like to submit an abstract to a local, national, or international conference, please send a draft of the content to me two weeks before the submission deadline. I am happy to help revise your abstract drafts.
+    - Once your work has been selected for a talk, you need to prepare your presentation and do rehersals once in the lab. This can help you enhance your logic, manage presenting timing, practice question handling skills, and build your confidence. 
 
 
 #### Presenting your research - general tips for slides: 
@@ -97,9 +99,6 @@ Once your work has been selected for a talk for a research conference, you need 
 
 - **ACR** (American College of Rheumatology) - <https://www.rheumatology.org/Annual-Meeting>
   - *Not out yet: usually deadline for abstract submission is June*
-
-
-I am happy to help revise your manuscript and abstract drafts and provide detailed guidance on presentations.
 
 
 
