@@ -1,12 +1,15 @@
 
 # Expectations and achievements
 
-<img src="https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/research-mentoring-essentials.png" width="240" align="right">
+Author: Fan Zhang
+Date: 2025-12-09
+
+<img src="https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/research-mentoring-essentials.png" width="220" align="right">
 
 ![](https://komarev.com/ghpvc/?username=fanzhanglab&style=flat-square&color=green)
 
 
-To achieve our research goals and maintain high productivity, we expect all lab members to push beyond their comfort zones, connect ideas across disciplines, and think deeply about the “why” behind their work—especially as it relates to the specific questions driving their projects. We aim to cultivate both independent and collaborative, publication-ready projects that will help you grow into an independent computational scientist and position you for success in your next career stage. We are always eager to recruit highly motivated and dedicated individuals at all levels.
+To achieve our research goals and maintain high productivity, we expect all lab members to push beyond their comfort zones, connect ideas across disciplines, and think deeply about the “why” behind their work—especially as it relates to the specific questions (either computational or biological) driving their projects. We aim to cultivate both independent and collaborative, publication-ready projects that will help you grow into an **independent computational scientist** and position you for success in your next career stage. We are always eager to recruit **highly motivated and dedicated** individuals at all levels.
 
 
 
