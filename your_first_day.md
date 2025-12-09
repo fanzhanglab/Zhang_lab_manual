@@ -57,34 +57,8 @@ If there's any collision where you and your teammate have done the same changes 
 
 The GIT Graphic User Interface (GUI) is very useful and easy to start with software for version control purposes in the lab. The detailed instructions of the commands will be introduced in later parts of this document. 
 
-**Windows:** 
 
-You can either download [Git for Windows](http://msysgit.github.com/) or [SourceTree for Windows](http://www.sourcetreeapp.com). 
-
-The configuration steps below are for SourceTree. After downloading it, install all as default.
-
-Click Clone/New -> clone repository ->Source: `ssh://username@xxx/home/fzhang/zhanglab/git/projectfoldername.git`
-
-You need to enter your password for this.
-
-Target: should be somewhere safe.
-
-Clone Type: Standard.
-
-**Mac:** 
-
-<http://www.sourcetreeapp.com>.
-
-Run Source Tree -> Clone Repository ->
-Source Path:`ssh://username@xxx/home/fzhang/zhanglab/git/projectfoldername.git`
-
-Destination Path: should be somewhere safe. 
-
-You need to enter your redwood password for this.
-
-**Linux:**
-
-However most of the work in the lab is done over command line in linux. A good intro is available [here](http://pcottle.github.io/learnGitBranching/). And here is a good [cheat sheet](http://zrusin.blogspot.com/2007/09/git-cheat-sheet.html) for Git commands.
+A good intro is available [here](http://pcottle.github.io/learnGitBranching/). And here is a good [cheat sheet](http://zrusin.blogspot.com/2007/09/git-cheat-sheet.html) for Git commands.
 
 ![Alt text](./figures/git_cheat_sheet.png)
 
