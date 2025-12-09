@@ -17,13 +17,6 @@ Let's focus on 5 aspects of this paper through discussions:
 - Limitations of this work 
 
 
-#### Subgroup meeting
-- Besides weekly lab meetings, we also organize two subgroup meetings based on our lab's research interests.
-- Each lab member needs to select one subgroup meeting based on their own research interests and career development goals.
-- The two subgroup meetings are: 1) single-cell multi-omics and 2) systems immunology and biology in immune-mediated diseases.
-- Subgroup meetings offer a great opportunity to enhance your knowledge of a particular field through discussing any of your challenges, questions, progresses, and brain-stormings on your project.
-
-
 #### One-on-one meeting
 - Weekly one-on-one meetings will be held for each member when they join the lab. We have Thursdays as our 1-1 meeting day!
 - Every member will be assigned one or two major projects.
@@ -38,6 +31,6 @@ Let's focus on 5 aspects of this paper through discussions:
 #### Scientific communication
 - In person: scientific reserach progress meetings and presentations, etc 
 - Slack: easy communication on research and lab related work
-- Trello: track progresses on specific tasks on each projects
 - Github: code, analysis, visualization, and electric lab notebook (markdown or jupyter notebook)
 - Email: can be eveything useful and important
+- Trello (optional): track progresses on specific tasks on each projects

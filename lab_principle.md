@@ -13,8 +13,7 @@
 - For unpublished lab materials (code, software, pipeline, data, manuscript drafts, and grants), we encourage everyone share within lab, and it is possible to share with others outside the lab upon prior approval by Prof. Zhang and all involved contributors and collaborators.
 
 
-#### We believe that diversity makes better science
-- We value inclusive and diverse research environment.
+#### We value dynamis research environment
 - To promote high quality research, we welcome all trainees from different reserach backgrounds, different countries, different races, etc.
 
 
