@@ -8,10 +8,7 @@ This repo is about detailed steps for reproducible research in computational sci
 
 We recommend every lab member from the [Zhang Lab](https://fanzhanglab.org/) to first read through these documents to understand the contents, which will help you to have a productive and successful experience here.
 
-:star: [**First Day in lab for new members**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/your_first_day.md): You should first read through this document and configure your server and computer with necessary software.
-
-:star: [**Getting started with Alpine**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/Alpine_Help.md): This will help new members get aquainted with the CU Research Computing (CURC) High Performance Computing (HPC) Cluster.
-
+:star: [**First Day in lab for new members**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/your_first_day.md): You should first read through this document and configure your server and computer with necessary software. Especially, get started with Alpine server following[this tutorial](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/Alpine_Help.md).
 
 :star: [**Expectations and achievements**](https://github.com/fanzhanglab/Zhang_lab_manual/blob/master/for_trainee.md): To achieve your research goals, we highly encourage all lab members to submit abstracts, publish papers, and/or present our work in public.
 
