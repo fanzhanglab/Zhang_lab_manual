@@ -1,8 +1,9 @@
 
 # Expectations and achievements
 
-Author: Fan Zhang
-Date: 2025-12-09
+**Author**: Fan Zhang
+
+**Date**: 2025-12-09
 
 <img src="https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/research-mentoring-essentials.png" width="220" align="right">
 
@@ -89,22 +90,24 @@ We encourage to consider the conferences below based on our lab interests:
 Prof. Zhang is happy to help revise your manuscript and abstract drafts and provide detailed guidance on presentations.
 
 
-
-Publishing a paper
--------
-- We perform publishing-driven and impactful reserach.
-We aim to thoughtfully solve at least one scientific problem and overcome a computational challenge in one paper.
-- For a computational biology or method development paper, we need to perform reasonable benchmarking on multiple real-world datasets and method comparison on existing approaches. As outcomes, we recommend to make the method/tool generalizable in multiple similar fields to benefit the whole computational and interdisciplinary community.
-- For translational- or disease-driven paper, we need to generate statistical robust conclusions through accurate data modeling.
-We aim to not only generate analyses or pipelines, but also a testable hypothesis with reproducible coding to further communicate with other immunologists and rheumatologists to gain translational impact.
-- [More to come]
-
-
-
 Presenting your research
 -------
-Once your work has been selected for an oral talk, you need to prepare your presentation and do rehersals once in the lab. This can help you enhance your logic, manage presenting timing, practice question handling skills, and build your confidence. 
+Once your work has been selected for a talk for a research conference, you need to prepare your presentation and do rehersals once in the lab. This can help you enhance your logic, manage presenting timing, practice question handling skills, and build your confidence. 
+
+General tips: 
+- Each slide should convey one clear message.
+- The slide title should state the key message.
+- Use large, easy-to-read fonts.
+- Favor plots and figures over text whenever possible.
+- Engage your audience by posing motivating questions during the presentation.
 
 
 
- 
+
+Writing/Publishing a paper
+-------
+- We conduct publishing-driven, impactful research. Each paper should thoughtfully address at least one scientific question and overcome a key computational challenge.
+- For computational biology or method-development papers, we perform thorough benchmarking across multiple real-world datasets and compare against existing approaches. Our goal is to create methods/tools that are generalizable and useful across related fields.
+- For translational or disease-focused papers, we aim for statistically robust conclusions through accurate data modeling. Beyond producing analyses or pipelines, we also strive to propose testable hypotheses and provide reproducible code to facilitate communication with immunologists and rheumatologists and enhance translational impact.
+- We use Google Drive to organize manuscript preparation, including Google Docs for manuscript writing and Paperpile for reference management.
+- Please discuss publishing strategies with me early in the process so we can plan efficiently and strategically. 
