@@ -46,7 +46,7 @@ If you'd like to submit an abstract, please send a draft of the content to me tw
 Once your work has been selected for a talk for a research conference, you need to prepare your presentation and do rehersals once in the lab. This can help you enhance your logic, manage presenting timing, practice question handling skills, and build your confidence. 
 
 
-**Presenting your research - general tips for slides: **
+### Presenting your research - general tips for slides: 
 
     - Each slide should convey one clear message.
     - The slide title should state the key message.
@@ -55,7 +55,7 @@ Once your work has been selected for a talk for a research conference, you need 
     - Engage your audience by posing motivating questions during the presentation.
 
 
-We encourage to consider the conferences below based on our lab interests:
+### We encourage to consider the conferences below based on our lab interests:
 
 ### Computational biology and bioinformatics conferences: 
 
