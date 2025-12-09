@@ -19,7 +19,7 @@ First, ask Dr. Zhang to add you to our lab [Github](https://github.com/fanzhangl
 - We also use OneDrive to share files between lab members since we have unlimited space from CU.
 ```
 
-Second, if you do not yet have a CURC account via XSEDE, please go ahead and create one, per https://curc.readthedocs.io/en/latest/access/rmacc.html. Once you have an account, send an email to rc-help@colorado.edu, and ask them to help add you to `fanzhanglabgrp` so that you can access our lab space `/pl/active/fanzhanglab` if needed.
+Second, if you do not yet have a CURC account via XSEDE, please go ahead and create one, per [this tutorial](https://curc.readthedocs.io/en/latest/access/rmacc.html). Once you have an account, send an email to rc-help@colorado.edu, and ask them to help add you to `fanzhanglabgrp` so that you can access our lab space `/pl/active/fanzhanglab` if needed.
 
 Then, you should first read through this document and configure your computer with necessary software. Understanding the contents in this document will help you establish a good habit on conducting reproducible computational experiments.
 
@@ -33,10 +33,10 @@ We do
 
 
 ## 1. Request your account on our server `Alpine`
-Refer to [this step-by-step tutorial](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/Alpine_Help.md)
+Refer to this [step-by-step tutorial](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/Alpine_Help.md) that we have documented.
 
-## 2. Set Up Your Jupyterlab Working Environment locally
-If needed, feel free to install latest R version, Python version, and jupyterlab on your local computer for your own convenience. You can sync your OneDrive folder to your local laptop, then save the processed data (e.g., single-cell RNA-seq gene x cell matrix) into folders from OneDrive, which saves your local laptop storage space. When you code under Jupyterlab environment, you can just access these data from OneDrive.
+## 2. Set up your local working environment
+If possible, please install latest R version, Python version, and jupyterlab on your local computer for your own convenience. You can sync your OneDrive folder to your local laptop, then save the processed data (e.g., single-cell RNA-seq gene x cell matrix) into folders from OneDrive, which saves your local laptop storage space. When you code under Jupyterlab environment, you can just access these data from OneDrive.
 
 [Here](./reference/linux_tutorial.pdf) is a recommended unix tutorial and tips. You can skip the first part and start reading from Page 6.
 
