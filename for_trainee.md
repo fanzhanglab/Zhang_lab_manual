@@ -46,7 +46,7 @@ If you'd like to submit an abstract, please send a draft of the content to me tw
 Once your work has been selected for a talk for a research conference, you need to prepare your presentation and do rehersals once in the lab. This can help you enhance your logic, manage presenting timing, practice question handling skills, and build your confidence. 
 
 
-### Presenting your research - general tips for slides: 
+#### Presenting your research - general tips for slides: 
 
     - Each slide should convey one clear message.
     - The slide title should state the key message.
@@ -57,7 +57,7 @@ Once your work has been selected for a talk for a research conference, you need 
 
 ### We encourage to consider the conferences below based on our lab interests:
 
-### Computational biology and bioinformatics conferences: 
+#### Computational biology and bioinformatics conferences: 
 
 - **RECOMB** (Research in Computational Molecular Biology) - <http://recomb2023.bilkent.edu.tr/keydates_and_deadlines.html>
   - *Abstract submission deadline: January 21, 2023*
@@ -86,7 +86,7 @@ Once your work has been selected for a talk for a research conference, you need 
   - *Usually the abstract submission deadline is [October](https://www.iscb.org/rocky2022-submissions/rocky2022-call-abstracts)*
   
   
-### Translational medicine and systems immunology conferences:
+#### Translational medicine and systems immunology conferences:
 
 - **FOCIS** (Federation of Clinical Immunology Societies) - <https://www.focisnet.org/meetings/focis-2023/submit-an-abstract/>
   - *Deadline for Abstract Submission: Wednesday, January 18, 2023*
