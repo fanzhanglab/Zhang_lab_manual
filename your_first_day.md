@@ -1,54 +1,42 @@
 
 # Your First Day #
 
-Author: Fan Zhang
-Last Update: March 15th, 2021
+**Author**: Fan Zhang
+
+**Last Update**: December, 2025
 
 
 Congratulations, and welcome! This guide is written by people who've been where you are and want to help you to have a productive and successful experience here.
 
-First, ask Dr. Zhang to add you to our lab [Trello](https://trello.com/en-US), [Github](https://github.com/fanzhanglab), and [Slack](zhanglab.slack.com) space.
+First, ask Dr. Zhang to add you to our lab [Github](https://github.com/fanzhanglab) and [Slack](zhanglab.slack.com) space.
 ```
-- We use Trello to manage project tasks and track progresses between lab members 
-- We use Github to perform data analysis for each project-driven repository. 
-  This can be viewed as electric lab notebook (R markdown or Jupyter notebook).
+- We use Github to perform data analysis for each project-driven repository for final publishing. 
+  (This can be viewed as electric lab notebook, e.g., R markdown or Jupyter)
 - We use Slack for easy communication.
-- For manuscript writing, we use Google Drive Google docs which enables multiple people working.
-- For reference, we use paperpile which is a good literature reference software to easily insert and sync references. 
-- [Grammarly](https://www.grammarly.com/) is a nice free online writing assistant!
+- For manuscript writing, we use Google Drive/Google docs which enables multiple people working together.
+- For reference, we use paperpile which is a literature reference software to insert and sync references. 
 - For high quality figure generation, we use Illustrator and BioRender if needed.
 - We also use OneDrive to share files between lab members since we have unlimited space from CU.
 ```
 
-Second, if you do not yet have a CURC account via XSEDE, please go ahead and create one, per https://curc.readthedocs.io/en/latest/access/rmacc.html. Once you have an account, send an email to rc-help@colorado.edu, and ask them to help add you to `fanzhanglabgrp` so that you can access our lab space `/projects/fanzhanglab@xsede.org` and `/scratch/summit/fanzhanglab@xsede.org`.
+Second, if you do not yet have a CURC account via XSEDE, please go ahead and create one, per https://curc.readthedocs.io/en/latest/access/rmacc.html. Once you have an account, send an email to rc-help@colorado.edu, and ask them to help add you to `fanzhanglabgrp` so that you can access our lab space `/pl/active/fanzhanglab` if needed.
 
-Then, you should first read through this document and configure your computer with necessary software. Understanding the contents in this document will help you establish a good habit on conducting reproducible computational experiments.There are a few things you need to do to get started on data analysis: 
+Then, you should first read through this document and configure your computer with necessary software. Understanding the contents in this document will help you establish a good habit on conducting reproducible computational experiments.
 
 We do
-1) large-scale processing at Boulder Summit (will be Alpine for future). For example, learn how to submit a HPC job at [this tutorial](https://github.com/ResearchComputing/CU_DENVER_HPC_2019/blob/master/Job_Submission/hpc_job_submission_CU_Denver_summer2019.pdf).
+1) large-scale processing using Alpine server. For example, learn how to submit a HPC job at [this tutorial](https://github.com/ResearchComputing/CU_DENVER_HPC_2019/blob/master/Job_Submission/hpc_job_submission_CU_Denver_summer2019.pdf).
  More interesting computing resource including writing scripts and hpc can be found at [CU Boulder Research Computing](https://github.com/ResearchComputing).
 2) then grab the processed data to our local box (e.g. Jupyter notbook) 
 3) share code and key results at specific Github repo 
-4) archive key results data and figure at Boulder Summit storage space
+4) archive key results data and figure at Alpine storage space
 
 
 
-## 1. Request your account on our server `Summit`
-1. Boulder Summit is our primary linux server for computation including read mapping, large-scale gennomics data computation, running jobs. Boulder Summit supports HPC computing. First, you need to obtain RMASS Access to Summit by getting an XSEDE account (for Anschutz campus users) following [these steps](https://curc.readthedocs.io/en/latest/index.html).
-
-2. Read the [details](https://curc.readthedocs.io/en/latest/index.html) (e.g. "Running Jobs"), and install Python and R with Anaconda following the steps [here](https://curc.readthedocs.io/en/latest/software/python.html).
-
-3. Learn the structure of the [Filesystems](https://curc.readthedocs.io/en/latest/compute/filesystems.html).
-
-A terminal application allows you to connect to our server, check the directories and files on it, and perform computations. 
-
-Once you've set up your working environment, then you'll need to start learning about the software, systems and culture for the lab. 
-
+## 1. Request your account on our server `Alpine`
+Refer to [this step-by-step tutorial](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/Alpine_Help.md)
 
 ## 2. Set Up Your Jupyterlab Working Environment locally
-We perform downstream analysis using Jupyterlab. So far the Summit doesn't allow XSEDE users to access Jupyter notebook given the differences between Boulder and Anschutz in authentication. Thus, please transfer the processed data from server to local workstation using Globus, which is the RC recommended data transfer method for XSEDE users. Refer to Trello board for detailed steps or [here](https://curc.readthedocs.io/en/latest/access/rmacc.html#data-transfer). 
-
-Then, please install R version 4.1.2, Python 3.9.10, and jupyterlab. For the details of how to install Jupyterlab, please check our lab Trello board. Note that we have unlimited space from Microsoft OneDrive. You can sync your OneDrive folder to your local laptop, then save the processed data (e.g., single-cell RNA-seq gene x cell matrix) into folders from OneDrive, which saves your local laptop storage space. When you code under Jupyterlab environment, you can just access these data from OneDrive.
+If needed, feel free to install latest R version, Python version, and jupyterlab on your local computer for your own convenience. You can sync your OneDrive folder to your local laptop, then save the processed data (e.g., single-cell RNA-seq gene x cell matrix) into folders from OneDrive, which saves your local laptop storage space. When you code under Jupyterlab environment, you can just access these data from OneDrive.
 
 [Here](./reference/linux_tutorial.pdf) is a recommended unix tutorial and tips. You can skip the first part and start reading from Page 6.
 
@@ -125,30 +113,9 @@ Often we want to switch to a different branch that's available on the server.
 	
 3. `$ git pull <repository> <branch>` Pulls a current branch from the repository. Make sure you don't have any uncommitted changes; if so use the stash. 
 
-##### More Advanced Commands
-
-
-
-###### Git References ##
-* [Git in 5 Minutes](http://scottr.org/presentations/git-in-5-minutes/)
-* [Version Control with Git - Software Carpentry](http://software-carpentry.org/v5/novice/git/index.html)
-
-###### Some Common Git Problems & Solutions ##
-
-1. Sometimes a user will be denied access to a shared repository on redwood. When cloning the repository, include your username in the ssh link as shown below:
-
-	`$ git clone ssh://yourusername@redwood.wpi.edu/research/fzhang/zhanglab/git/common.git `
-
-2. The difference between clone and pull.
-	
-	Clone: copy the directory to your local drive/create your own branch (only do once for each project).
-
-	Pull: copy the changes to the repository to your local drive (done multiple times when developing the project, manually controlled by the project manager).
-
-3. Great git Manual Page:
-<http://www.kernel.org/pub/software/scm/git/docs/>
 
 
 ## 4. Archive key results data and figure
-To deliver the results, we will eventually publish our code together with key metadata files. For example, we will need to save a copy of the identified cluster identity for each cell barcode. Once we finalize the results, we will transfer the key results data and figure to our Boulder Summit storage space under `cd /projects/fanzhanglab@xsede.org` where we have 250 GB/user space. Refer to [Project Folder](https://github.com/fanzhanglab/Zhang_lab_manual/blob/main/reproducible_research.md#structure-of-a-project-folder) about project-specific folder structures at Summit.
+To deliver the results, we will eventually publish our code together with key metadata files. For example, we will need to save a copy of the results (e.g., cluster labels for each cell barcode) to the project folder at Alpine. 
 
+Once we finalize the results for pubishing, we will upload both original data and key results data to public domains, e.g, NIAID ImmPort.
