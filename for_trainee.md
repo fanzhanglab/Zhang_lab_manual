@@ -91,10 +91,11 @@ Publishing an abstract
 
 - **Keystone Symposia** Autoimmunity & Autoinflammation: Translating Basic Mechanisms into Novel Therapeutic Approaches
   - *Short Talk Abstract Deadline: October 2, 2025*
+  - Keystone, CO
   
 - **FOCIS** (Federation of Clinical Immunology Societies) - <https://focisnet.org/meetings/focis-2026/submit-an-abstract/>
   - *Deadline for Abstract Submission: Wednesday, January 12, 2025*
-  - Keystone, CO
+  - San Francisco, CA
   
 - **Systems Immunology** from Cold Spring Harbor Laboratory <https://meetings.cshl.edu/meetings.aspx?meet=SYSIMM>
   - *Abstract Deadline: January 31, 2025*; limited to ~2900 characters 
