@@ -84,9 +84,7 @@ Publishing an abstract
 - **Single Cell Biology Keystone Symposia** - <https://virtual.keystonesymposia.org/ks/live/606/page/4851>
   - *Not out yet*
 
-- **ISMB Rocky Mountain Bioinformatics** - <https://www.iscb.org/rocky2022>
-  - *Usually the abstract submission deadline is [October](https://www.iscb.org/rocky2022-submissions/rocky2022-call-abstracts)*
-  
+
   
 ### Translational medicine and systems immunology conferences:
 
