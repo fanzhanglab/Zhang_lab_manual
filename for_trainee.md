@@ -69,16 +69,15 @@ Publishing an abstract
   - *The James P. Taylor Foundation for Open Science will award six scholarships covering full conference registration to outstanding graduate students. Application deadline is February 6, 2023. For details and application instructions, visit [here](https://jxtxfoundation.org/news/2022-12-16-bg/).*
   
 
-- **GLBIO** (Great Lakes Bioinformatics) Conference - <https://www.iscb.org/glbio2023-calls/talk-and-poster>
-  - Abstracts for Oral Presentation submissions to GLBIO 2023 should be approximately 400 words and have no figures. Adding references to already published papers is recommended where appropriate. Submission deadline in Easychair is March 16, 2023.
-  - *Oral presentation/poster submission deadline: March 16, 2023.*
-  - McGill University in Montreal; May 15-18
-  - Full paper for oral presentation: The Bioinformatics Advances Journal has committed to considering publication of a special issue for peer-reviewed articles from the conference. Submission deadline: February 9, 2023*
+- **GLBIO** (Great Lakes Bioinformatics) Conference - <https://www.iscb.org/glbio2025/home>
+  - Abstracts for Oral Presentation submissions to GLBIO 2023 should be approximately 400 words and have no figures. Adding references to already published papers is recommended where appropriate. Submission deadline in Easychair is March 3, 2025.
+  - *Oral presentation/poster submission deadline: March 16, 2025*
+  - Full paper for oral presentation: The Bioinformatics Advances Journal has committed to considering publication of a special issue for peer-reviewed articles from the conference. Submission deadline: February 3, 2025*
 
 
-- **ISMB** (International Society for Computational Biology) - <https://www.iscb.org/ismbeccb2023-dates>
+- **ISMB** (International Society for Computational Biology) - <https://www.iscb.org/ismb2026/home>
 
-  - *Abstract submission deadline: Thursday, April 20, 2023*
+  - *Abstract submission deadline: Thursday, April 9, 2026*
   
   
 - **Single Cell Biology Keystone Symposia** - <https://www.keystonesymposia.org/conferences/conference-listing/meeting/K62027>
@@ -90,7 +89,7 @@ Publishing an abstract
   
 ### Translational medicine and systems immunology conferences:
 
-- **Keystone** Autoimmunity & Autoinflammation: Translating Basic Mechanisms into Novel Therapeutic Approaches
+- **Keystone Symposia** Autoimmunity & Autoinflammation: Translating Basic Mechanisms into Novel Therapeutic Approaches
   - *Short Talk Abstract Deadline: October 2, 2025*
   
 - **FOCIS** (Federation of Clinical Immunology Societies) - <https://focisnet.org/meetings/focis-2026/submit-an-abstract/>
@@ -101,8 +100,8 @@ Publishing an abstract
   - *Abstract Deadline: January 27, 2023*; limited to ~2900 characters 
   - Need to register first, and then submit an abstract 
 
-- **ACR** (American College of Rheumatology) - <https://www.rheumatology.org/Annual-Meeting>
-  - *Not out yet: usually deadline for abstract submission is June*
+- **ACR** (American College of Rheumatology) - <https://rheumatology.org/meetings/acr-convergence>
+  - *Usually deadline for abstract submission is June*
 
 
 
