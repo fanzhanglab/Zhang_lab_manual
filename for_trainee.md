@@ -96,8 +96,8 @@ Publishing an abstract
   - *Deadline for Abstract Submission: Wednesday, January 12, 2025*
   - Keystone, CO
   
-- **Systems Immunology** from Cold Spring Harbor Laboratory <https://meetings.cshl.edu/meetings.aspx?meet=SYSIMM&year=23>
-  - *Abstract Deadline: January 27, 2023*; limited to ~2900 characters 
+- **Systems Immunology** from Cold Spring Harbor Laboratory <https://meetings.cshl.edu/meetings.aspx?meet=SYSIMM>
+  - *Abstract Deadline: January 31, 2025*; limited to ~2900 characters 
   - Need to register first, and then submit an abstract 
 
 - **ACR** (American College of Rheumatology) - <https://rheumatology.org/meetings/acr-convergence>
