@@ -81,8 +81,10 @@ Publishing an abstract
   - *Abstract submission deadline: Thursday, April 20, 2023*
   
   
-- **Single Cell Biology Keystone Symposia** - <https://virtual.keystonesymposia.org/ks/live/606/page/4851>
-  - *Not out yet*
+- **Single Cell Biology Keystone Symposia** - <https://www.keystonesymposia.org/conferences/conference-listing/meeting/K62027>
+  - *Short Talk Abstract Deadline: October 21, 2026*
+  - *Poster Abstract Deadline: January 25, 2027*
+  - Banff, AB, Canada
 
 
   
