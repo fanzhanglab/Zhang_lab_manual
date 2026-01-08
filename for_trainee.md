@@ -61,8 +61,8 @@ Publishing an abstract
 
 ### Computational biology and bioinformatics conferences: 
 
-- **RECOMB** (Research in Computational Molecular Biology) - <http://recomb2023.bilkent.edu.tr/keydates_and_deadlines.html>
-  - *Abstract submission deadline: January 21, 2023*
+- **RECOMB** (Research in Computational Molecular Biology) - <https://recomb.org/recomb2026/>
+  - *Abstract submission deadline: Nov 20, 2025*
 
 - **BoG** (The Biology of Genomes) - <https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=23>
   - *Abstract Deadline: February 17, 2023*
@@ -88,8 +88,8 @@ Publishing an abstract
   
 ### Translational medicine and systems immunology conferences:
 
-- **FOCIS** (Federation of Clinical Immunology Societies) - <https://www.focisnet.org/meetings/focis-2023/submit-an-abstract/>
-  - *Deadline for Abstract Submission: Wednesday, January 18, 2023*
+- **FOCIS** (Federation of Clinical Immunology Societies) - <https://focisnet.org/meetings/focis-2026/submit-an-abstract/>
+  - *Deadline for Abstract Submission: Wednesday, January 12, 2025*
   
 - **Systems Immunology** from Cold Spring Harbor Laboratory <https://meetings.cshl.edu/meetings.aspx?meet=SYSIMM&year=23>
   - *Abstract Deadline: January 27, 2023*; limited to ~2900 characters 
